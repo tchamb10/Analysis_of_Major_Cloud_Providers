@@ -1,0 +1,540 @@
+course_id,urls,title,date_created,num_subscribers,is_paid,price,avg_rating,num_ratings,content_duration
+3827154,/course/google-cloud-certification-associate-cloud-engineer/,GCP Associate Cloud Engineer - Google Cloud Certification,2021-02-05T08:04:02Z,83768,True,$19.99,4.5850706,15792,17.5 total hours
+3995372,/course/google-cloud-professional-cloud-architect-certification/,GCP Professional Cloud Architect: Google Cloud Certification,2021-04-20T17:29:45Z,45087,True,$19.99,4.6236362,6452,21 total hours
+4008228,/course/google-cloud-digital-leader-certification/,GCP for Beginners - Become a Google Cloud Digital Leader,2021-04-26T13:54:29Z,40085,True,$19.99,4.6373043,8761,10.5 total hours
+2543649,/course/google-certified-associate-cloud-engineer-2019-prep-course/,Google Cloud Associate Cloud Engineer: Get Certified 2022,2019-09-04T16:15:33Z,84358,True,$79.99,4.525641,9033,6 total hours
+2604078,/course/google-cloud-platform-gcp-fundamentals-for-beginners/,Google Cloud Platform (GCP) Fundamentals for Beginners,2019-10-13T05:29:20Z,92690,True,$24.99,4.5018673,29417,4 total hours
+4045712,/course/google-certified-associate-cloud-engineer-practice-tests-x/,Google Certified Associate Cloud Engineer Practice Tests,2021-05-12T20:51:27Z,7526,True,$19.99,4.484536,934,250 questions
+5168866,/course/gcp-google-professional-cloud-architect-certification-exam/,GCP Google Professional Cloud Architect Certification Exam,2023-02-20T08:34:42Z,0,True,$39.99,0,0,60 questions
+4178136,/course/google-cloud-certified-professional-cloud-developer/,Google Cloud Developer - GCP Professional Certification,2021-07-11T14:10:24Z,11503,True,$19.99,4.5452585,1143,21.5 total hours
+4916320,/course/latest-gcp-ace-google-associate-cloud-engineer-practice-exams-tests/,GCP Google Associate Cloud Engineer Practice Test Exam 2023,2022-10-06T16:42:00Z,286,True,$19.99,4.5384617,47,300 questions
+4095980,/course/google-cloud-gcp-professional-data-engineer-certification/,GCP - Google Cloud Professional Data Engineer Certification,2021-06-02T14:50:19Z,11497,True,$19.99,4.457944,1536,23.5 total hours
+3962460,/course/google-cloud-gcp-associate-cloud-engineer-certification/,GCP Associate Cloud Engineer Certification : Google Cloud,2021-04-06T05:03:10Z,6111,True,$19.99,4.491071,1235,21 total hours
+4280268,/course/gcp-professional-cloud-architect/,Google Cloud Professional Cloud Architect: GCP Certification,2021-09-04T04:09:52Z,778,True,$84.99,4.5833335,78,22.5 total hours
+4296670,/course/terraform-for-beginners-using-google-cloud/,Terraform for Beginners using GCP - Google Cloud (Hands-on),2021-09-13T13:35:12Z,6238,True,$19.99,4.509217,899,8 total hours
+4065250,/course/google-cloud-professional-architect-get-certified/,Google Cloud Professional Architect: Get Certified 2022,2021-05-20T22:52:14Z,8185,True,$69.99,4.55,1085,9 total hours
+4133782,/course/google-cloud-networking/,GCP - Google Cloud Professional Cloud Network Engineer,2021-06-19T15:57:18Z,2322,True,$19.99,4.45,310,15 total hours
+4881592,/course/google-certified-associate-cloud-engineer-practice-testexam/,GCP Google Associate Cloud Engineer Practice Test,2022-09-14T08:01:19Z,869,True,$49.99,4.8333335,34,450 questions
+4133780,/course/gcp-google-cloud-professional-devops-engineer-certification/,GCP Google Cloud Professional DevOps Engineer Certification,2021-06-19T15:54:25Z,4693,True,$19.99,4.422727,649,13.5 total hours
+2459706,/course/google-certified-architect-developer-engineer-data-devops/,Ultimate Google Cloud Certifications: All in one Bundle (6),2019-07-15T04:03:47Z,105682,True,$89.99,4.22,3127,42 total hours
+2827592,/course/google-cloud-specialization/,Google Cloud Platform MasterClass: GCP for Absolute Beginner,2020-02-21T03:51:59Z,11387,True,$109.99,4.5172415,1175,31 total hours
+4151466,/course/gcp-arch-exam-practice/,Latest Google Cloud Architect Practice Question,2021-06-28T14:31:36Z,4240,True,$19.99,4.5078125,501,150 questions
+4306507,/course/google-cloud-certified-cloud-digital-leader-practice-tests/,Google Cloud Certified Cloud Digital Leader Practice Tests,2021-09-18T15:41:52Z,3783,True,$29.99,4.390351,840,160 questions
+3917678,/course/google-cloud-platform-for-aws-professionals/,GCP for AWS Professionals - Learn Google Cloud at F1 Speed,2021-03-16T13:48:45Z,3539,True,$19.99,4.5,446,7.5 total hours
+4376072,/course/google-cloud-function-serverless/,Google Cloud Function with 5 Hands-on Demo - Serverless GCP,2021-11-01T02:59:18Z,612,True,$19.99,4.547619,64,2.5 total hours
+5035986,/course/gcp-google-cloud-digital-leader-practice-exams-en/,GCP: Google Cloud Digital Leader Practice Exams [2023 New],2022-12-22T04:41:42Z,3863,True,$19.99,4.654412,68,150 questions
+5035984,/course/gcp-ace-google-cloud-associate-cloud-engineer-550q-2023/,GCP ACE : Google Cloud Associate Cloud Engineer [2023 New],2022-12-22T04:41:21Z,3496,True,$19.99,4.8,75,400 questions
+1299656,/course/gcp-data-engineer-and-cloud-architect/,GCP: Complete Google Data Engineer and Cloud Architect Guide,2017-07-21T05:01:37Z,49120,True,$99.99,4.2534246,7119,28 total hours
+4126398,/course/google-cloud-gcp-professional-cloud-security-engineer-certification/,Google Professional Cloud Security Engineer Certification,2021-06-16T04:00:18Z,5363,True,$19.99,4.5376344,697,13 total hours
+3765452,/course/gcp-architect-am/,Google Cloud (GCP) Professional Cloud Architect,2021-01-10T22:08:26Z,4689,True,$94.99,4.51875,586,22.5 total hours
+4963632,/course/google-associate-cloud-engineer-training/,GCP Associate Cloud Engineer- Google Cloud ACE Training 2023,2022-11-06T05:03:33Z,205,True,$24.99,4.71875,22,15 total hours
+4909188,/course/google-cloud-digital-leader-gcp-practice-exams/,Google Cloud Digital Leader (GCP): 4 New Practice Exams 2022,2022-10-02T08:04:47Z,386,True,$84.99,4.478261,85,216 questions
+4131772,/course/google-cloud-digital-leader-certification-guide/,Google Cloud Digital Leader Certification For Beginner - GCP,2021-06-18T13:55:41Z,3605,True,$19.99,4.439597,499,9 total hours
+3834108,/course/google-certified-professional-cloud-architect-practice-tests-s/,Google Certified Professional Cloud Architect Practice Tests,2021-02-08T13:03:11Z,5714,True,$19.99,4.1764708,464,160 questions
+4411354,/course/gcpintro/,Introduction to Google Cloud - 1 Hour Crash Course,2021-11-23T19:29:12Z,4170,True,$19.99,4.404878,932,1.5 total hours
+4555898,/course/google-professional-cloud-architect-gcp-pca-exams/,Google Professional Cloud Architect - GCP PCA - Exams - 2023,2022-02-17T12:10:05Z,13561,True,$19.99,4.3125,61,420 questions
+4674836,/course/google-cloud-digital-leader-certification-practice-exam-2022-e/,Google Cloud Digital Leader Certification Practice Exam 2023,2022-05-06T10:00:29Z,2432,True,$19.99,4.3464913,411,380 questions
+4682452,/course/google-cloud-certified-associate-engineer-practice-exams/,Google Certified Associate Cloud Engineer Practice Exams,2022-05-11T15:00:31Z,1365,True,$19.99,4.4545455,24,331 questions
+3125272,/course/google-cloud-professional-data-engineer-get-certified/,Google Cloud Professional Data Engineer: Get Certified 2022,2020-05-13T23:16:27Z,51684,True,$79.99,4.468992,3260,6.5 total hours
+5044226,/course/google-gcp-professional-data-engineer-practice-test/,Google GCP Professional Data Engineer Practice test,2022-12-27T10:42:18Z,36,True,$49.99,4.875,4,203 questions
+4918702,/course/master-data-engineering-using-gcp-data-analytics/,Master Data Engineering using GCP Data Analytics,2022-10-08T10:10:50Z,1069,True,$84.99,4.57971,89,19.5 total hours
+3406980,/course/google-certified-associate-cloud-engineer-practice-exams-gcp/,Google Certified Associate Cloud Engineer Practice Exams,2020-08-10T03:44:44Z,2173,True,$34.99,4.534091,445,110 questions
+1343890,/course/google-cloud-architect-certifications/,Ultimate Google Certified Professional Cloud Architect 2022,2017-09-07T00:01:32Z,69686,True,$99.99,3.9558823,5042,24 total hours
+3591038,/course/google-cloud-associate-cloud-engineer-practice-examspractice-exams/,Google Cloud Associate Cloud Engineer Practice Tests,2020-10-24T19:46:16Z,20785,True,$34.99,4.405629,2030,150 questions
+4580240,/course/google-professional-cloud-developer-gcp-exams/,Google Professional Cloud Developer - GCP PCD - Exams - 2023,2022-03-04T11:56:07Z,14596,True,$19.99,4.181818,42,330 questions
+2726362,/course/gcp-associate-engineer/,Google Cloud Platform (GCP) Cert: Associate Cloud Engineer,2019-12-28T18:52:10Z,9013,True,$49.99,4.4347825,1963,4 total hours
+1284384,/course/google-cloud-for-techs/,Google Cloud Platform (GCP) - For Techs,2017-07-08T17:26:00Z,13099,True,$19.99,4.521053,3107,5 total hours
+4874348,/course/new-gcp-professional-cloud-architect-practice-exams-2022/,GCP Professional Cloud Architect Practice Exam 2023,2022-09-09T15:49:23Z,3374,True,$19.99,4.230769,37,390 questions
+4952078,/course/google-cloud-digital-leader-certification-for-gcp-beginner/,Google Cloud Digital Leader Certification - For GCP Beginner,2022-10-29T15:26:10Z,925,True,$24.99,4.7525773,97,10 total hours
+4923094,/course/machine-learning-with-google-cloud/,Google Cloud Machine Learning  - Vertex AI,2022-10-11T10:45:41Z,212,True,$19.99,4.3333335,18,8.5 total hours
+4654274,/course/devsecops-in-gcp-integrate-sast-sca-dast-in-google-cloud-asecurityguru/,DevSecOps with GCP: Secure CI/CD with Google Cloud,2022-04-22T05:16:49Z,1007,True,$19.99,4.5227275,70,3 total hours
+4978672,/course/google-professional-cloud-devops-engineer-exam-questions/,GCP Google Professional Cloud DevOps Engineer Practice Test,2022-11-15T10:35:32Z,625,True,$49.99,4.5277777,18,195 questions
+5061702,/course/30-days-of-google-cloud-the-complete-gcp-beginners-bootcamp/,30 Days of Google Cloud: The Complete GCP Beginners Bootcamp,2023-01-05T06:10:41Z,28,True,$19.99,4.6666665,3,11.5 total hours
+4756652,/course/gcp-professional-cloud-network-engineer-practice-test/,GCP Professional Cloud Network Engineer Practice Tests 2023,2022-06-28T16:45:18Z,458,True,$29.99,4.25,43,110 questions
+4959794,/course/new-google-cloud-professional-data-engineer-practice-exams-2022/,Google Cloud Professional Data Engineer Practice Tests 2023,2022-11-03T15:17:51Z,650,True,$19.99,4.4605265,41,320 questions
+4529088,/course/google-associate-cloud-engineer-gcp-ace-exams/,Google Associate Cloud Engineer - GCP ACE - Exams - 2023,2022-02-02T08:30:01Z,15685,True,$19.99,4.0666666,65,300 questions
+4591436,/course/google-cloud-professional-data-engineer-gcp-exams/,Google Cloud Professional Data Engineer - GCP - Exams - 2023,2022-03-11T10:52:44Z,11405,True,$19.99,3.7894738,71,360 questions
+4623978,/course/google-cloud-database/,Google Cloud Professional Database Engineer Certification,2022-04-02T03:26:51Z,135,True,$19.99,4.6666665,12,9 total hours
+4117804,/course/google-associate-cloud-engineer-gcp-test-sets/,Google Associate Cloud Engineer (GCP) Test Sets 2023,2021-06-12T01:44:21Z,1189,True,$84.99,3.9,19,331 questions
+4028938,/course/gcp-for-beginner/,Google Cloud Platform (GCP) for Beginner,2021-05-05T14:45:35Z,637,True,$19.99,4.35,182,5.5 total hours
+4133786,/course/gcp-for-developer/,GCP Google Cloud Professional Cloud Developer Certification,2021-06-19T15:59:05Z,229,True,$19.99,4.6,21,28 total hours
+5012016,/course/terraform-for-beginners-using-google-cloud-platform-gcp/,Terraform for Beginners using Google Cloud Platform (GCP),2022-12-06T10:38:13Z,155,True,$19.99,4.4722223,18,10 total hours
+4996696,/course/gcp-google-professional-cloud-architect-practice-test/,GCP Google Professional Cloud Architect Practice test,2022-11-26T12:53:54Z,731,True,$49.99,4.5,5,335 questions
+2171356,/course/google-cloud-associate-cloud-engineer-certification/,Ultimate Google Certified Associate Cloud Engineer 2022,2019-01-23T16:32:48Z,58741,True,$49.99,4.3,2001,22.5 total hours
+4816524,/course/google-professional-cloud-architect-2022-practice-test-p/,Google Professional Cloud Architect - 2023 Practice Test,2022-08-04T15:05:37Z,1717,True,$19.99,4.663793,209,267 questions
+3237977,/course/google-cloud-platform-essentials/,Google Cloud Platform Essentials,2020-06-15T11:40:11Z,74,True,$84.99,4.625,8,5 total hours
+4330078,/course/google-cloud-services-crash-course/,Google Cloud Services Fundamental Crash Course For Beginners,2021-10-02T04:48:09Z,6764,True,$19.99,4.3965516,153,2 total hours
+4983382,/course/gcp-certified-associate-cloud-engineer-training-google-cloud/,GCP Certified Associate Cloud Engineer Training Google Cloud,2022-11-18T03:42:57Z,9,True,$34.99,4.8,5,4 total hours
+1244262,/course/an-introduction-to-google-cloud-platform-for-data-engineers/,An Introduction to Google Cloud Platform for Data Engineers,2017-06-06T22:01:11Z,7051,True,$19.99,4.4714284,1346,3 total hours
+4980648,/course/gcp-professional-cloud-security-engineer-practice-test-2022/,GCP Professional Cloud Security Engineer Practice Test 2023,2022-11-16T12:21:00Z,115,True,$24.99,4.8,5,60 questions
+1510852,/course/learn-gcp-become-a-certified-data-engineer-express-course/,Google Cloud Professional Data Engineer Course [2019 Update],2018-01-15T10:57:41Z,10081,True,$19.99,4.5740743,1989,4.5 total hours
+5023220,/course/google-cloud-professional-cloud-architect-gcp-practice-exam/,Google Cloud Professional Cloud Architect -GCP Practice Exam,2022-12-13T16:24:00Z,220,True,$19.99,5.0,6,124 questions
+3419402,/course/excel-as-google-certified-professional-cloud-architect/,Latest Google Certified Professional Cloud Architect,2020-08-14T14:30:00Z,1077,True,$64.99,4.5,220,16 total hours
+2572104,/course/google-cloud-certified-associate-cloud-engineer-gcp-ace/,Google Cloud Certified Associate Cloud Engineer - GCP (ACE),2019-09-22T15:00:42Z,1531,True,$84.99,3.05,25,4 total hours
+5066596,/course/google-cloud-professional-cloud-developer-2023-exams/,Google Cloud Professional Cloud Developer 2023 [EXAMS],2023-01-06T21:29:39Z,26,True,$19.99,5.0,4,177 questions
+3086804,/course/deploying-nodejs-on-gcp/,Deploying Node.js on GCP,2020-05-04T07:51:57Z,136,True,$19.99,4.3,17,4 total hours
+4502318,/course/slg-google-cloud-professional-data-engineer-practice-tests/,Google Cloud Professional Data Engineer Practice Tests,2022-01-18T18:54:21Z,3229,True,$29.99,4.4473686,317,100 questions
+2803595,/course/google-cloud-associate-engineer-exam-dumps/,Google Cloud Certification : Associate Cloud Engineer 2021,2020-02-08T16:26:09Z,158,True,$24.99,4.0,16,6 total hours
+2807703,/course/cloud-functions-faas-with-python-from-zero-to-hero/,Google Cloud Functions (FaaS) with Python from zero to hero!,2020-02-11T03:43:52Z,1107,True,$19.99,4.3913045,142,2.5 total hours
+2828304,/course/google-cloud-platform-fundamentals-core-infrastructure/,Google Cloud Platform Fundamentals: Core Infrastructure,2020-02-21T13:10:17Z,304,True,$69.99,3.75,42,6 total hours
+4324210,/course/ultimate-gcp-associate-cloud-engineer-practice-test-oct-2021/,Ultimate GCP Associate Cloud Engineer Practice Test Oct 2021,2021-09-28T17:05:53Z,77,True,$29.99,4.75,4,375 questions
+2414030,/course/the-complete-introduction-to-cloud-with-aws-azure-and-gcp/,"Introduction to Cloud Computing with AWS, Azure and GCP",2019-06-14T20:44:15Z,1147,True,$19.99,4.0,303,5 total hours
+4571796,/course/bigquery-ml-course/,BigQuery ML - Machine Learning in SQL using Google BigQuery,2022-02-27T05:55:40Z,1382,True,$39.99,4.421875,107,11 total hours
+4105714,/course/gcp-associate-engineer-certification/,Latest Google Associate Cloud Engineer Certification,2021-06-06T23:32:05Z,573,True,$59.99,4.1,158,13.5 total hours
+4576902,/course/machine-learning-on-google-cloud-platform/,Machine Learning on Google Cloud (Vertex AI) - Hands on!,2022-03-02T11:19:46Z,1574,True,$29.99,4.257353,218,6.5 total hours
+4262928,/course/hands-on-data-engineering-in-google-cloud-platform-python/,Hands-On Data Engineering in Google Cloud Platform | Python,2021-08-25T14:21:36Z,510,True,$84.99,4.3,48,6 total hours
+4780106,/course/gcp-professional-data-engineer-exams/,GCP Professional Data Engineer 2023 [EXAMS],2022-07-13T19:37:15Z,9,True,$19.99,5.0,1,100 questions
+2150642,/course/google-cloud-certified-associate-cloud-engineer-practiceexam/,GCP Associate Cloud Engineer Practice Exam,2019-01-14T14:29:07Z,199,True,$29.99,3.75,57,136 questions
+2233550,/course/gcp-google-cloud-platform-data-engineer-cloud-architect/,"GCP: Google Cloud Platform: Data Engineer, Cloud Architect",2019-02-21T21:04:01Z,8677,True,$84.99,4.25,244,8.5 total hours
+5003408,/course/new-gcp-google-professional-cloud-devops-engineer-practice-exams/,Google Professional Cloud DevOps Engineer Practice Exams,2022-11-30T13:14:17Z,358,True,$19.99,4.9444447,9,315 questions
+3518104,/course/google-cloud-fundamental-knowledge/,Google Cloud Platform (GCP)  Fundamental,2020-09-22T06:41:04Z,20,True,$84.99,3.8,5,3 total hours
+3675330,/course/google-cloud-digital-cloud-leader-certification-crash-course/,Google Cloud Digital Cloud Leader Certification Crash Course,2020-12-02T02:17:21Z,11313,True,$19.99,4.2285714,192,6.5 total hours
+4087582,/course/the-ultimate-beginners-guide-to-google-cloud-platform-gcp/,The Ultimate Beginners guide to Google Cloud Platform (GCP),2021-05-30T01:45:53Z,6494,True,$49.99,4.3,18,6.5 total hours
+4222716,/course/data-engineering-with-google-dataflow-and-apache-beam/,Data Engineer with Google Dataflow and Apache Beam,2021-08-04T19:29:19Z,878,True,$19.99,4.1615386,166,2.5 total hours
+1576778,/course/data-storage-management-in-the-google-cloud-platform-gcp/,Google Cloud Platform (GCP) Data Storage Management,2018-03-01T22:12:06Z,5514,True,$19.99,4.35,54,4.5 total hours
+2419924,/course/a-practical-guide-to-google-cloud-from-scratch/,A Practical Guide to Google Cloud from Scratch,2019-06-19T05:59:57Z,74,True,$84.99,3.9375,8,5 total hours
+2514076,/course/gcp-professional-cloud-architect-practice-exams-by-category/,GCP - Professional Cloud Architect - Practice Exams,2019-08-17T19:46:05Z,5208,True,$19.99,3.75,255,321 questions
+4884484,/course/google-cloud-digital-leader-practice-tests-c/,Google Cloud Digital Leader Practice Tests *BRAND NEW 2023*,2022-09-15T20:52:25Z,29,True,$29.99,4.25,8,150 questions
+2244870,/course/google-cloud-platform-professional-cloud-developer-certification/,Ultimate Google Certified Professional Cloud Developer 2022,2019-02-27T23:06:45Z,78484,True,$49.99,4.45,1728,16.5 total hours
+4196552,/course/basic-data-engineering-for-beginner-using-google-cloud-python/,Data Engineering for Beginner using Google Cloud & Python,2021-07-21T08:21:57Z,947,True,$84.99,4.284091,100,8 total hours
+4278254,/course/good-clinical-practice-ich-gcp-e6-r2/,[2023] Good Clinical Practice ICH GCP for Clinical Research,2021-09-03T01:28:47Z,1625,True,$84.99,4.291139,420,3 total hours
+4688538,/course/google-cloud-professional-cloud-network-engineer-exams-2022-h/,GCP Professional Cloud Network Engineer practice exams 2022,2022-05-16T08:12:00Z,2264,True,$19.99,4.15,28,142 questions
+5057856,/course/google-cloud-certification-ace-and-pca-2023/,Google Cloud Certification (ACE and PCA)-2023,2023-01-03T19:02:21Z,5,True,$19.99,5.0,4,14.5 total hours
+4862508,/course/gcp-ace-google-associate-cloud-engineer-certification/,GCP ACE - Google Associate Cloud Engineer Certification,2022-09-02T08:47:35Z,5437,True,$19.99,4.9,12,240 questions
+4295226,/course/google-certified-associate-cloud-engineer-practice-exams/,Google Certified Associate Cloud Engineer Practice Exam 2023,2021-09-12T17:57:42Z,1243,True,$19.99,4.35,13,120 questions
+4747082,/course/gcp-cloud-digital-leader-practice-tests/,Google Cloud Digital Leader Practice Tests | FEB 2023,2022-06-22T19:56:25Z,1516,True,$19.99,4.642857,65,156 questions
+4512626,/course/codeless-data-engineering-in-gcp-beginner-to-advanced/,Practical Data Engineering in GCP: Beginner to Advanced,2022-01-24T16:01:03Z,260,True,$19.99,4.25,56,4.5 total hours
+5058232,/course/google-cloud-professional-database-engineer-tests/,GCP Professional Cloud Database Engineer Tests 2023,2023-01-03T21:41:30Z,1035,True,$19.99,4.2777777,9,120 questions
+2349662,/course/terraform-beginner-to-advanced-using-google-cloud-platform/,Terraform Beginner to Advanced - Using Google Cloud Platform,2019-05-02T17:58:06Z,6738,True,$19.99,4.390805,1270,2.5 total hours
+4872320,/course/gcp-pcd-google-professional-cloud-developer/,GCP PCD - Google Professional Cloud Developer,2022-09-08T10:23:56Z,4843,True,$19.99,4.388889,9,240 questions
+4500806,/course/google-cloud-associate-cloud-engineer-certification-course/,Google Cloud - Associate Cloud Engineer Certification Course,2022-01-17T23:44:51Z,4341,True,$79.99,4.547619,360,13 total hours
+5020370,/course/google-professional-cloud-devops-engineer-gcp/,Google Professional Cloud DevOps Engineer (GCP),2022-12-11T23:34:48Z,694,True,$19.99,5.0,4,100 questions
+4569522,/course/google-certified-professional-data-engineer-practice-tests/,GCP - Google Cloud Professional Data Engineer Practice Tests,2022-02-25T11:11:26Z,125,True,$44.99,4.0,16,215 questions
+1556924,/course/hands-on-google-cloud-platformgcp-cloud-architect/,Hands on Google cloud platform(GCP)--- Cloud Architect,2018-02-16T05:45:03Z,3000,True,$44.99,4.0,816,3 total hours
+1868320,/course/google-cloud-hands-on-getting-started-practical-scenario-hcc-gcp-ps102/,Google Cloud Hands-on Getting Started Practical Scenario 102,2018-08-21T04:58:52Z,3212,True,$19.99,4.4,51,3 total hours
+4868644,/course/gcp-pca-google-professional-cloud-architect/,GCP PCA - Google Professional Cloud Architect,2022-09-06T09:57:01Z,4590,True,$19.99,4.15,11,240 questions
+5067576,/course/gcp-cpde-google-cloud-professional-data-engineer/,GCP-CPDE (Google Cloud Professional Data Engineer),2023-01-07T09:08:00Z,540,True,$39.99,4.5,1,220 questions
+3216921,/course/google-cloud-platform-fundamentals-core-architecture/,Google Cloud Platform (GCP) Fundamentals: Core Architecture,2020-06-08T19:08:43Z,4946,True,$84.99,3.4,90,2.5 total hours
+3691240,/course/gcp-associate-cloud-engineer-practice-tests/,GCP - Associate Cloud Engineer Practice Tests - 2023,2020-12-08T16:42:12Z,54,True,$19.99,4.15,12,150 questions
+2970806,/course/gcp-network-engineer-pratice-exam/,GCP Professional Cloud Network Engineer - Pratice Exam,2020-04-07T15:52:33Z,65,True,$19.99,4.25,10,50 questions
+4780098,/course/google-cloud-professional-cloud-security-engineer-tests/,Google Cloud Professional Cloud Security Engineer Tests 2023,2022-07-13T19:29:08Z,1047,True,$19.99,4.6666665,6,180 questions
+4338210,/course/google-professional-cloud-architect-gcp-practice-exams-latest/,GCP Google Professional Cloud Architect - Practice Exams,2021-10-07T07:19:07Z,19,True,$29.99,3.0,6,235 questions
+4373574,/course/gcp-professional-cloud-devops-engineer-practice-tests-p/,GCP Professional Cloud DevOps Engineer - Practice tests,2021-10-30T03:57:33Z,178,True,$19.99,4.1,12,108 questions
+2796454,/course/deploy-machine-learning-model/,Deploy Machine Learning Models on GCP + AWS Lambda (Docker),2020-02-04T17:18:53Z,2984,True,$19.99,4.486111,264,4.5 total hours
+5051614,/course/google-cloud-professional-cloud-architect-practice-practice-tests/,Google Cloud Professional Cloud Architect Practice Tests,2022-12-31T14:45:43Z,1020,True,$19.99,5.0,1,182 questions
+1612396,/course/hands-on-google-cloud-platformgcp-data-engineer/,Hands on Google cloud platform(GCP) - Data Engineer,2018-03-23T09:27:55Z,941,True,$54.99,3.55,192,4.5 total hours
+5054966,/course/new-gcp-professional-machine-learning-engineer-practice-exams/,GCP  Professional Machine Learning Engineer Practice Exams,2023-01-02T17:58:22Z,178,True,$19.99,4.6666665,3,130 questions
+5018022,/course/google-cloud-professional-cloud-security-engineer-exam-gcp/,Google Cloud Professional Cloud Security Engineer Exam (GCP),2022-12-10T00:10:08Z,520,True,$19.99,5.0,4,110 questions
+5053106,/course/learn-cloud-computing-fundamentals-for-absolute-beginner-aws-azure-gcp/,"Learn Cloud Computing Fundamentals - AWS, Azure, GCP (2023)",2023-01-01T18:18:45Z,19,True,$24.99,4.625,4,4 total hours
+4928692,/course/googlegcp-associate-cloud-engineer-ace-practice-exam-2022-a/,GCP Associate Cloud Engineer (ACE) Practice Exam 2022 (1),2022-10-14T15:30:11Z,4,True,$19.99,5.0,1,250 questions
+4861324,/course/practice-exam-gcp-associate-cloud-engineer-2022/,Practice Exam - GCP Associate Cloud Engineer 2023,2022-09-01T14:20:41Z,11,True,$24.99,5.0,1,178 questions
+5014578,/course/google-gcp-pca/,Google Professional Cloud Architect GCP PCA Practice Test,2022-12-07T19:29:50Z,2,True,$19.99,5.0,1,223 questions
+4908130,/course/googlegcp-professional-cloud-architect-practice-exam-2022/,Google/GCP Professional Cloud Architect Practice Exam 2022,2022-10-01T10:16:19Z,14,True,$19.99,5.0,1,200 questions
+4121752,/course/google-cloud-professional-data-engineer-test-2021/,Google Cloud Professional Data Engineer Certification Test,2021-06-14T04:39:54Z,302,True,$29.99,3.85,28,442 questions
+4342008,/course/gcp-associate-engineer-practice-exam/,Latest Google Cloud Associate Engineer Practice Exam,2021-10-09T16:09:03Z,278,True,$19.99,3.6,53,101 questions
+2732082,/course/the-cloud-solution-architect-presales/,The Cloud Solution Architect (AWS/Azure/GCP) - PreSales,2020-01-01T14:20:44Z,623,True,$29.99,4.3,146,3 total hours
+2235384,/course/data-engineering-on-google-cloud-platform/,Data Engineering on Google Cloud platform,2019-02-22T19:37:36Z,3997,True,$19.99,4.617647,451,10 total hours
+3740958,/course/machine-learning-masterclass-with-python-tensorflow-gcp/,"Machine Learning Masterclass with Python, TensorFlow, GCP",2021-01-01T06:38:18Z,44,True,$84.99,5.0,1,10 total hours
+4825364,/course/gcp-google-certified-associate-cloud-engineer-practice-tests/,GCP Google Certified Associate Cloud Engineer Practice Tests,2022-08-10T08:23:52Z,19,True,$19.99,5.0,2,202 questions
+4563990,/course/professional-cloud-network-engineer-google-cloud-gcp/,Professional Cloud Network Engineer Google Cloud GCP,2022-02-22T10:10:30Z,3,True,$34.99,2.5,2,85 questions
+2031522,/course/google-cloud-platform-professional-cloud-developer/,Google Cloud Platform Professional Cloud Developer Bootcamp,2018-11-17T14:19:43Z,209,True,$39.99,4.1,28,21 total hours
+4946004,/course/gcp-cloud-digital-leader-practice-exam/,Google Cloud Digital Leader - 37 GCP Practice Exam Questions,2022-10-25T19:23:06Z,108,True,$84.99,4.4,5,37 questions
+1880916,/course/learn-spark-and-hadoop-overnight-on-gcp/,Learn Spark and Hadoop Overnight on GCP,2018-08-28T07:49:52Z,1445,True,$84.99,3.7,21,3.5 total hours
+4188266,/course/ultimate-gcp-professional-data-engineer-practice-test-2021/,Ultimate GCP Professional Data Engineer Practice Test 2021,2021-07-16T13:00:26Z,340,True,$39.99,3.75,46,300 questions
+4916674,/course/google-certified-associate-cloud-engineer-practice-tests-c/,Google Certified Associate Cloud Engineer Practice Tests,2022-10-06T21:09:55Z,6,True,$19.99,5.0,1,150 questions
+2533358,/course/google-kubernetes-engine-hands-on-lab-for-absolute-beginners/,Google Kubernetes Engine (GKE) - A Beginner's Guide,2019-08-29T09:44:29Z,1508,True,$34.99,4.0555553,169,3 total hours
+1858932,/course/google-certified-cloud-engineer-associate-training-hcc-gcp-eng-a-pe102/,Google Certified Cloud Engineer Associate Practice Exam 102,2018-08-15T23:29:29Z,3502,True,$19.99,3.9,54,7.5 total hours
+4900312,/course/gcp-cloud-digital-leader-pratice-exam/,GCP Cloud Digital Leader - Pratice Exam,2022-09-26T14:01:05Z,7,True,$19.99,5.0,4,52 questions
+4483890,/course/google-cloud-digital-leader-practice-test-2022-new/,Google Cloud Digital Leader Practice Test 2023 [NEW],2022-01-08T15:40:29Z,143,True,$24.99,3.25,12,60 questions
+5121392,/course/serverless-data-architecture-on-google-cloud/,Data Science Model deployments and Cloud Computing on GCP,2023-01-29T13:57:56Z,142,True,$34.99,4.75,2,7 total hours
+4113992,/course/google-associate-cloud-engineer-certification-test-2021/,Google Associate Cloud Engineer Certification Test 2022,2021-06-10T10:15:08Z,39,True,$29.99,4.1666665,9,750 questions
+4946034,/course/pcp-cloud-security-engineer-practice-exam/,Practice exams: GCP Professional Cloud Security Engineer,2022-10-25T19:44:09Z,26,True,$84.99,5.0,1,30 questions
+4898302,/course/gcp-professional-cloud-architect-practice-test/,GCP - Professional Cloud Architect Practice Tests - 2023,2022-09-25T01:58:40Z,7,True,$19.99,0,0,235 questions
+4536302,/course/gcp-professional-machine-learning-engineer-practice-tests/,GCP  Professional Machine Learning Engineer Practice Tests,2022-02-06T12:28:51Z,94,True,$29.99,2.4375,8,66 questions
+5061834,/course/google-professional-cloud-network-engineer-tz/,GCP-PCNE (Google Professional Cloud Network Engineer),2023-01-05T07:41:08Z,154,True,$24.99,0,0,81 questions
+1270948,/course/managing-big-data-on-googles-cloud-platform/,Managing Big Data on Google's Cloud Platform,2017-06-27T18:46:44Z,790,True,$19.99,4.2,96,1.5 total hours
+4717554,/course/google-cloud-certified-professional-data-engineer-practice-tests-2023/,GCP Certified Data Engineer - Practice Tests 2023,2022-06-03T20:39:34Z,4903,True,$84.99,4.45,10,62 questions
+58394,/course/sonic_gcp_en/,Good Clinical Practice (GCP),2013-06-05T13:28:33Z,993,True,$29.99,4.2916665,303,1.5 total hours
+2909982,/course/ich-gcp-e6-r2-for-investigators-clinical-research-staff/,Good Clinical Practice (ICH GCP) for Clinical Research,2020-03-25T11:24:14Z,1840,True,$84.99,4.147059,530,1.5 total hours
+4348454,/course/gcp-machine-learning-engineer-professional-practice-tests-n/,GCP Machine Learning Engineer Professional - Practice tests,2021-10-13T17:59:31Z,116,True,$19.99,3.5,11,110 questions
+3148812,/course/bestcourse-stepbystep/,Ultimate  Google Cloud Platform Concepts for Beginners,2020-05-20T06:18:36Z,235,True,$39.99,4.0,2,5 total hours
+5109888,/course/gcp-ace-exam-premium-simulator/,GCP-ACE Exam Premium Simulator,2023-01-24T20:41:24Z,2,True,$19.99,5.0,2,100 questions
+2345096,/course/introduction-to-google-cloud-security-features/,Introduction to Google Cloud Security Features,2019-04-29T21:24:34Z,3598,True,$19.99,4.25,54,4 total hours
+2755798,/course/google-bigquery-for-marketers-and-agencies/,Google BigQuery for Marketers and Agencies - 2022,2020-01-13T02:54:17Z,2410,True,$84.99,4.25,499,3 total hours
+4802664,/course/gcp-google-cloud-professional-data-engineer-certification/,GCP Google Cloud Professional Data Engineer Certification,2022-07-27T15:47:20Z,6537,True,$19.99,4.35,21,240 questions
+1135406,/course/google-cloud-platform-essentials-training/,Google Cloud Platform Certification Prep - Foundations,2017-03-05T15:28:34Z,156,True,$24.99,3.25,32,2 total hours
+3280554,/course/google-professional-cloud-architect-practice-exam/,Google Professional Cloud Architect Practice Exam,2020-06-29T08:54:02Z,24,True,$24.99,3.25,2,216 questions
+4946040,/course/practice-exam-gcp-devops/,Practice exams: GCP Professional Cloud DevOps Engineer,2022-10-25T19:47:02Z,24,True,$19.99,5.0,1,10 questions
+3184044,/course/software-mobile-development-2020/,The complete Google Cloud Platform (GCP) for Beginners,2020-05-29T22:35:12Z,969,True,$84.99,3.9,5,5.5 total hours
+4799062,/course/google-cloud-professional-machine-learning-engineer-exam-o/,Google Cloud Professional Machine Learning Engineer Exam,2022-07-25T16:05:18Z,16,True,$19.99,5.0,2,60 questions
+4778202,/course/gcp-associate-cloud-engineer-practice-tests-new/,GCP Associate Cloud Engineer Practice Tests,2022-07-12T17:18:11Z,7,True,$19.99,5.0,1,123 questions
+4310782,/course/gcp-associate-cloud-engineer-certification-practice-exam/,GCP Associate Cloud Engineer - Certification Practice exam,2021-09-21T06:14:25Z,1,True,$59.99,4.0,1,180 questions
+4658874,/course/gcp-professional-cloud-architect-pratice-exam/,GCP Professional Cloud Architect - Pratice Exam,2022-04-25T13:23:40Z,14,True,$19.99,4.357143,7,148 questions
+5091310,/course/google-cloud-digital-leader-certification-bootcamp-2023/,Google Cloud Digital Leader Certification BootCamp 2023,2023-01-16T23:00:40Z,5,True,$24.99,4.875,4,4 total hours
+3995546,/course/google-professional-cloud-architecte-gcp-practice-exam/,Google Professional Cloud Architect (GCP) Practice Exam 2023,2021-04-20T19:01:24Z,207,True,$19.99,4.0833335,6,203 questions
+4910984,/course/google-cloud-associate-cloud-engineer-practice-tests-new22/,Google Cloud Associate Cloud Engineer Practice Tests *NEW23*,2022-10-03T12:37:59Z,5,True,$29.99,5.0,1,200 questions
+4321946,/course/google-cloud-professional-cloud-network-engineer-test-2021/,Google Cloud Professional Cloud Network Engineer Test,2021-09-27T13:34:28Z,51,True,$29.99,4.071429,7,240 questions
+2326002,/course/website-hosting-free-forever-on-google-cloud-with-an-amazing-cpanel/,Google Cloud: Host Website Free Forever Using cpanel on GCP,2019-04-17T04:53:58Z,1190,True,$19.99,4.15,63,1.5 total hours
+1947148,/course/google-cloud-platform/,How To Install WordPress On Google Cloud,2018-10-03T23:52:17Z,7390,True,$19.99,4.75,75,33 total mins
+2480166,/course/gcp-data-engineer-2022-new-exam-pattern-practice-test/,GCP Data Engineer 2022 (New Exam pattern) - Practice Test,2019-07-27T15:30:53Z,105,True,$19.99,4.2,26,40 questions
+3768680,/course/kubernetes-on-gcp/,Kubernetes on GCP - Feb 2021,2021-01-12T07:15:29Z,100,True,$84.99,4.05,14,2 total hours
+2672326,/course/google-cloud-machine-learning-with-tensorflow/,Google Cloud Machine Learning with TensorFlow,2019-11-25T11:24:46Z,390,True,$84.99,4.4,69,4 total hours
+2816683,/course/gcp-cse-pratice-exam/,GCP Professional Cloud Security Engineer - Pratice Exam,2020-02-16T12:06:22Z,107,True,$19.99,4.15,18,50 questions
+4261502,/course/gcp-and-google-cloud-machine-learning/,GCP And Google Cloud Machine Learning,2021-08-24T20:09:55Z,48,True,$84.99,3.0,2,4.5 total hours
+5163988,/course/gcp-professional-cloud-database-engineer-pratice-exam/,GCP Professional Cloud Database Engineer - Pratice Exam,2023-02-17T12:24:46Z,3,True,$19.99,5.0,1,112 questions
+4966186,/course/practice-exam-google-professional-machine-learning-engineer/,Practice Exam - Google Professional ML Engineer 2023,2022-11-07T17:26:33Z,16,True,$24.99,4.5,1,53 questions
+4878666,/course/google-cloud-machine-learning-engineer-certification-prep/,Google Cloud Machine Learning Engineer Certification Prep,2022-09-12T15:19:29Z,1414,True,$79.99,4.2971697,165,5.5 total hours
+2963862,/course/ich-gcp-good-clinical-practice-with-explanation/,ICH GCP : Good Clinical Practice (Audio + Test +Certificate),2020-04-06T05:45:03Z,48,True,$59.99,4.8,30,1.5 total hours
+4254672,/course/google-cloud-apigee-x-api-management-hands-on-training/,Google Cloud Apigee X API Management - Hands-On Training,2021-08-20T23:01:58Z,317,True,$84.99,3.6,53,3 total hours
+4584722,/course/google-associate-cloud-engineer-2022-updated/,Google Associate Cloud Engineer 2022 (Updated),2022-03-07T16:39:14Z,5,True,$19.99,4.5,2,175 questions
+3658828,/course/google-biqquery/,The Complete Google BiqQuery Masterclass: Beginner to Expert,2020-11-25T07:01:28Z,3080,True,$74.99,4.3978496,398,8.5 total hours
+4780876,/course/google-cloud-professional-devops-engineer-practice-tests/,Google Cloud Professional DevOps Engineer Exams 2023,2022-07-14T07:49:52Z,718,True,$19.99,4.4,5,165 questions
+4924818,/course/googlegcp-associate-cloud-engineer-ace-practice-exam-2022/,GCP Associate Cloud Engineer (ACE) Practice Exam 2022 (2),2022-10-12T10:26:15Z,0,True,$19.99,0,0,250 questions
+4658076,/course/introduction-to-google-cloud-bigquery/,Introduction to Google Cloud BigQuery,2022-04-25T00:00:18Z,1985,True,$49.99,4.455224,451,3 total hours
+2249470,/course/talend-open-studio-for-big-data-using-gcp-bigquery/,Get Started ~ Talend/Big Data/GCP BigQuery & Data Studio,2019-03-02T15:12:30Z,143,True,$19.99,3.6,29,1 total hour
+4467436,/course/google-cloud-fundamentals/,Google Cloud Fundamentals,2021-12-30T05:15:44Z,799,True,$19.99,3.9,25,1.5 total hours
+3335122,/course/serverless-django/,Serverless Django with Docker & Google Cloud Run,2020-07-15T17:19:40Z,14520,True,$59.99,4.0,62,2.5 total hours
+4060940,/course/google-professional-cloud-network-engineer-practice-exam-u/,Google Professional Cloud Network Engineer Practice Exam,2021-05-19T10:07:10Z,6,True,$79.99,3.75,2,79 questions
+4651144,/course/practice-exams-gcp-associate-cloud-engineer-tests-2022-r/,Practice Exams | GCP Associate Cloud Engineer Tests 2022,2022-04-20T08:57:41Z,8,True,$19.99,1.0,1,186 questions
+4976202,/course/google-cloud-digital-leader-practice-tests-g/,Google Cloud Digital Leader Practice Tests,2022-11-13T19:41:14Z,10,True,$19.99,5.0,1,123 questions
+2607568,/course/introduction-to-google-cloud-iot/,Introduction to Google Cloud IoT,2019-10-15T10:20:31Z,1364,True,$84.99,4.4166665,300,3 total hours
+5069800,/course/google-cloud-professional-devops-engineer-tests/,Google Cloud Professional Devops Engineer Tests 2023,2023-01-08T08:45:39Z,2,True,$19.99,5.0,1,81 questions
+3882376,/course/google-associate-cloud-engineer-exam-2021-practice-papers/,Google Associate Cloud Engineer Exam  2021 Practice Papers,2021-03-01T06:22:12Z,7,True,$19.99,4.5,2,144 questions
+2959716,/course/gcpsecurity/,Google Cloud Security Engineer Certification Practice Exam,2020-04-05T03:40:02Z,87,True,$19.99,4.2,19,40 questions
+1282168,/course/tensorflow-on-googles-cloud-platform-for-data-engineers/,Tensorflow on Google's Cloud Platform for Data Engineers,2017-07-06T15:51:44Z,577,True,$19.99,4.15,45,1.5 total hours
+1879550,/course/associate-cloud-engineer-practice-test-google-certification/,Google Certification ACE Practice Test 2023,2018-08-27T14:24:13Z,360,True,$29.99,3.5,43,70 questions
+4085636,/course/google-certified-professional-cloud-developer-tests-2021/,Google Certified Professional Cloud Developer Test 2022,2021-05-29T04:56:34Z,51,True,$29.99,2.5714285,7,258 questions
+4343054,/course/ansible-automation-advance/,Ansible MasterClass :  Ansible Automation with AWS | GCP,2021-10-10T13:22:51Z,440,True,$84.99,3.9,46,10 total hours
+4953374,/course/google-cloud-professional-database-engineer-exam-prep/,Google Cloud Professional Database Engineer Exam Prep,2022-10-30T15:40:58Z,386,True,$79.99,4.3913045,48,4.5 total hours
+4297870,/course/google-cloud-and-aws-certification/,Google Cloud And AWS Certification,2021-09-14T05:02:30Z,20,True,$84.99,4.0,2,2 total hours
+4285822,/course/google-professional-cloud-security-engineer-certification/,Google Professional Cloud Security Engineer Certification,2021-09-07T12:43:05Z,50,True,$29.99,3.55,10,130 questions
+1474682,/course/from-0-to-1-tensorflow-for-deep-learning/,TensorFlow and the Google Cloud ML Engine for Deep Learning,2017-12-19T06:19:22Z,4144,True,$84.99,4.3,305,17.5 total hours
+2771132,/course/spark-project-on-cloudera-hadoop-cdh-and-gcp-for-beginners/,Spark Project on Cloudera Hadoop(CDH) and GCP for Beginners,2020-01-21T12:40:51Z,1550,True,$19.99,4.25,116,11 total hours
+4283622,/course/good-clinical-practice-gcp-self-assessment-exam/,Good Clinical Practice (GCP) - Self Assessment Exam,2021-09-06T09:12:13Z,29,True,$84.99,4.214286,7,60 questions
+4717380,/course/google-cloud-finops-fundamentals/,Google Cloud FinOps Fundamentals,2022-06-03T17:51:12Z,1421,True,$34.99,4.2045455,52,4.5 total hours
+4966680,/course/premium-practice-test-for-gcp-professional-cloud-architect/,Premium Practice Test for GCP Professional Cloud Architect,2022-11-07T23:41:40Z,100,True,$19.99,4.5,1,100 questions
+3202534,/course/google-bigquery-and-postgresql-sql-for-data-analysis/,Google BigQuery & PostgreSQL : Big Query for Data Analysis,2020-06-04T09:49:23Z,156224,True,$29.99,4.4313726,1100,11.5 total hours
+1903722,/course/sql-for-data-science-with-google-big-query/,SQL For Data Science With Google Big Query,2018-09-09T19:33:06Z,9081,True,$99.99,4.314516,1999,7 total hours
+2830676,/course/introduction-to-good-clinical-practice-gcp/,Introduction to Good Clinical Practice (GCP),2020-02-22T20:45:31Z,297,True,$24.99,3.9,46,36 total mins
+4052806,/course/gcpcloud/,Introduction to Google Cloud Platform,2021-05-15T21:22:40Z,2147,True,$19.99,4.0729165,80,2.5 total hours
+2874572,/course/apache-beam/,Apache Beam | Google Data Flow (Python),2020-03-16T07:00:56Z,3962,True,$24.99,4.428571,532,3 total hours
+4636726,/course/new-google-professional-cloud-security-engineer-exam-m/,New Google Professional Cloud Security Engineer Exam,2022-04-11T03:54:14Z,8,True,$19.99,3.75,2,134 questions
+4418010,/course/looker-complete-guide-to-google-looker-user-and-analyst/,Looker - Complete Guide to Google Looker - User and Analyst,2021-11-27T20:39:56Z,1497,True,$94.99,4.509259,270,8 total hours
+2843646,/course/kubernetesexpress/,"React Native with Redux, Firebase, GCP and more.",2020-02-29T19:02:28Z,86,True,$84.99,3.75,11,10.5 total hours
+1594160,/course/hands-on-machine-learning-google-cloud-approach/,Machine Learning  & Tensorflow - Google Cloud Approach,2018-03-13T09:29:28Z,654,True,$44.99,2.75,126,3 total hours
+2351710,/course/learn-sql-for-data-analysis-with-google-bigquery/,Learn SQL for Data Analysis with Google Big Query,2019-05-04T00:02:44Z,8515,True,$79.99,4.267544,2539,2 total hours
+3158396,/course/gcp-compliance-and-managing-clinical-trials-during-covid-19/,GCP Compliance and Managing Clinical Trials during Covid-19,2020-05-22T19:19:56Z,1307,True,$84.99,4.2,27,1 total hour
+4549962,/course/google-looker-lookml/,Google Looker Masterclass: Looker & LookML A-Z 2023,2022-02-14T06:24:48Z,17203,True,$19.99,4.625,103,7.5 total hours
+1351964,/course/gcp-google-cloud-platform-concepts/,GCP - Google Cloud Platform Concepts,2017-09-15T21:48:16Z,62971,False,Free,4.25,2847,6 total hours
+3608326,/course/google-cloud-fundamentals-101-a-quick-guide-to-learn-gcp/,Google Cloud Fundamentals 101 : A quick guide to learn GCP,2020-11-01T21:16:18Z,12369,False,Free,4.3189654,613,2 total hours
+4254786,/course/my-google-cloud-platform-for-beginners/,My Google Cloud Platform for Beginners,2021-08-21T01:37:58Z,225,False,Free,4.5,2,1 total hour
+3934790,/course/gcp-serverless-functions/,GCP Serverless Functions,2021-03-24T04:56:24Z,2779,False,Free,4.65,41,1.5 total hours
+4295048,/course/google-cloud-platform-masterclass/,Google Cloud Platform MasterClass : 4 GCP Certification in 1,2021-09-12T16:00:50Z,5771,False,Free,4.45,75,1 total hour
+4140730,/course/serverless-gcp/,Serverless Framework + GCP,2021-06-23T04:25:57Z,1312,False,Free,4.25,6,1 total hour
+4008064,/course/ansible-gcp/,Ansible + GCP,2021-04-26T12:29:43Z,2771,False,Free,4.1,30,1 total hour
+4087734,/course/terraform-gcp/,Terraform + GCP,2021-05-30T04:36:26Z,4916,False,Free,4.37931,261,1.5 total hours
+4827444,/course/google-cloud-basics-compute-engine/,Google Cloud Basics: Compute Engine,2022-08-11T13:08:55Z,2690,False,Free,4.428571,24,34 total mins
+2764026,/course/ich-gcp-good-clinical-practice/,ICH-GCP : Good Clinical Practice,2020-01-17T10:23:02Z,2181,False,Free,4.1,168,1.5 total hours
+4101864,/course/history-and-principles-of-ich-gcp-good-clinical-practice/,History and Principles of ICH GCP: Good Clinical Practice,2021-06-05T02:44:51Z,695,False,Free,4.35,52,1 total hour
+2736314,/course/setup-single-node-cloudera-cluster-on-google-cloud/,Setup Single Node Cloudera Cluster on Google Cloud,2020-01-03T14:21:26Z,4976,False,Free,4.7,61,1.5 total hours
+3688994,/course/gcve-basics-google-cloud-vmware-engine/,GCVE Basics - Google Cloud VMware Engine,2020-12-07T22:26:35Z,2220,False,Free,4.35,84,1.5 total hours
+5104512,/course/google-cloud-basics-compute-engine-series2-series-2/,Google Cloud Basics: Compute Engine (Series 2),2023-01-22T19:57:52Z,1076,False,Free,4.75,2,38 total mins
+5104420,/course/gcp-2023-associate-cloud-engineer-practice-test-questions/,GCP-Associate Cloud Engineer (#2023) 100% pass rate,2023-01-22T19:14:06Z,103,True,$44.99,0,0,212 questions
+3838622,/course/google-cloud-architect/,Google Cloud Architect Certification 2022,2021-02-10T06:32:24Z,1134,True,$84.99,5.0,2,6 total hours
+2651022,/course/google-cloud-associate-engineer-exam-practice-tests/,Google Cloud -  Associate Cloud Engineer | 2023 Exam,2019-11-11T17:20:56Z,417,True,$24.99,3.75,80,185 questions
+4472358,/course/google-associate-cloud-engineer-exam-practice-questions/,Google Associate Cloud  Engineer Exam Practice Questions,2022-01-02T18:25:31Z,10,True,$39.99,0,0,125 questions
+4090526,/course/google-professional-cloud-developer-exam-test-sets/,Google Certified Professional Cloud Developer Exam 2023,2021-05-31T11:39:47Z,198,True,$84.99,3.0,20,441 questions
+4208806,/course/cloud-digital-leader-new/,Google Cloud Digital Leader-Practice Test 2023- [New],2021-07-28T04:07:32Z,2424,True,$19.99,4.1060605,98,100 questions
+3666184,/course/google-cloud-certified-associate-cloud-engineer-2021/,Google Cloud Certified – Associate Cloud Engineer [ 2021 ],2020-11-28T09:59:39Z,10,True,$19.99,5.0,1,60 questions
+3232505,/course/google-cloud-serverless/,Serverless Computing On Cloud  (Google + AWS):  2023,2020-06-13T14:22:41Z,285,True,$19.99,3.8,21,5 total hours
+4560716,/course/associate-cloud-engineer-google-cloud-gcp/,Associate Cloud Engineer Google Cloud GCP,2022-02-20T11:41:43Z,4,True,$39.99,0,0,200 questions
+4187056,/course/google-cloud-associate-cloud-engineer-practice-exams/,Latest 2023 Google Cloud Associate Engineer Practice Exam,2021-07-15T20:10:07Z,1172,True,$19.99,3.95,15,308 questions
+4573922,/course/gcp-professional-cloud-architect-practice-exam/,GCP Professional Cloud Architect: Practice Exam Nov. 2022,2022-02-28T15:45:45Z,14,True,$19.99,0,0,262 questions
+3878466,/course/google-professional-cloud-architect-practice-test-2021/,Google Cloud Professional Architect - Practice Test 2023,2021-02-27T06:40:39Z,1364,True,$39.99,3.2,42,165 questions
+4586668,/course/practice-exams-google-cloud-digital-leader-2022/,Google Cloud Digital Leader Practice Tests 2023,2022-03-08T18:57:39Z,378,True,$19.99,3.8214285,93,135 questions
+4659544,/course/google-associate-cloud-engineer-gcp-2022/,Google Associate Cloud Engineer - GCP - 2022,2022-04-25T20:58:02Z,9,True,$19.99,0,0,192 questions
+2568976,/course/google-cloud-associate-cloud-engineer-practice-tests/,Google Certified Associate Cloud Engineer Practice Tests,2019-09-20T10:03:49Z,741,True,$19.99,3.25,102,300 questions
+4740444,/course/google-certified-professional-cloud-architect-practice-tests-g/,Google Certified Professional Cloud Architect Practice Tests,2022-06-18T13:58:07Z,11,True,$84.99,0,0,1249 questions
+4998632,/course/google-cloud-architect-2023-newest-exam-questions/,Google Professional Cloud Architect  - Practice Exam 2023,2022-11-27T22:43:29Z,14,True,$24.99,5.0,2,130 questions
+3614686,/course/google-professional-cloud-architect-5-practice-tests/,Google || Professional Cloud Architect || 5 Practice Tests,2020-11-04T18:12:52Z,779,True,$19.99,4.2777777,9,246 questions
+3667324,/course/google-cloud-computing-engine-level-1-for-beginners/,Introduction to Google Cloud Computing engine for beginners,2020-11-28T20:32:00Z,203,True,$54.99,4.6666665,37,2 total hours
+5075884,/course/practice-tests-google-associate-cloud-engineer-l/,GCP Certification Google Associate Cloud Engineer test 2023,2023-01-10T17:34:00Z,2,True,$44.99,0,0,180 questions
+4348448,/course/gcp-professional-cloud-network-engineer-practice-tests/,GCP Professional Cloud Network Engineer - Practice tests,2021-10-13T17:57:31Z,4,True,$19.99,0,0,110 questions
+4512796,/course/google-cloud-platform-beginners/,Google Cloud Platform,2022-01-24T17:30:57Z,3665,True,$84.99,3.8,26,1 total hour
+5046548,/course/google-cloud-professional-cloud-developer-practice-test-p/,Google Cloud Professional Cloud Developer practice test,2022-12-28T15:15:03Z,41,True,$49.99,4.6,5,213 questions
+4994870,/course/google-professional-cloud-devops-engineer-preparation-new/,Google Professional Cloud DevOps Engineer Preparation - NEW,2022-11-25T08:43:06Z,2,True,$59.99,0,0,100 questions
+4945778,/course/practice-exam-gcp-professional-security-engineer-2022/,Practice Exam - GCP Professional Security Engineer 2023,2022-10-25T16:52:46Z,2,True,$24.99,0,0,86 questions
+4749058,/course/practice-tests-gcp-data-engineer-certification/,Practice Exam - GCP Professional Data Engineer 2023,2022-06-23T22:38:55Z,4,True,$24.99,0,0,154 questions
+5106112,/course/gcp-google-professional-cloud-architect-2023-100pass-rate/,GCP-Google Professional Cloud Architect (#2023)100%pass rate,2023-01-23T12:30:35Z,102,True,$44.99,0,0,250 questions
+4918904,/course/gcp-pcd-google-professional-cloud-developer-z/,GCP PCD - Google Professional Cloud Developer,2022-10-08T12:27:20Z,535,True,$19.99,0,0,20 questions
+4952092,/course/google-cloud-digital-leader-gcp-practice-tests-2022-2023/,Google Cloud Digital Leader (GCP) Practice Tests 2022-2023,2022-10-29T15:37:33Z,0,True,$19.99,0,0,142 questions
+5038244,/course/google-cloud-devops-professional-certification-test-2022/,Google Cloud Devops Professional (gcp)  Practice Test 2022,2022-12-23T07:27:31Z,1,True,$19.99,0,0,82 questions
+3331876,/course/serverless-python-applications-on-google-cloud/,Serverless Docker-based Python Application on Google Cloud,2020-07-14T17:25:38Z,20395,True,$59.99,4.3636365,323,4 total hours
+4567146,/course/google-associate-cloud-engineer-examen-de-certificacion-gabriel/,Google Associate Cloud Engineer Examen de certificacion,2022-02-24T00:12:38Z,4,True,$24.99,0,0,300 questions
+5067376,/course/google-professional-cloud-network-engineer-practice-test-u/,Google Professional Cloud Network Engineer Practice test,2023-01-07T06:31:10Z,16,True,$49.99,5.0,4,150 questions
+4376348,/course/professional-cloud-architect-on-google-cloud-platform/,Professional Cloud Architect on Google Cloud Platform,2021-11-01T07:40:38Z,1354,True,$44.99,4.5,5,181 questions
+4916544,/course/google-cloud-architect-developer-security-engineer-exams/,"Google Cloud Architect, Developer, Security Engineer Exams",2022-10-06T19:17:48Z,359,True,$19.99,5.0,5,334 questions
+5026954,/course/google-professional-cloud-architect-gpc-practice-test/,Google Professional Cloud Architect GCP Practice Test Jan23,2022-12-15T23:02:34Z,0,True,$24.99,0,0,266 questions
+4889764,/course/google-cloud-professional-data-engineer-practice-tests-x/,Google Cloud Professional Data Engineer Practice Tests,2022-09-19T16:53:54Z,1,True,$24.99,0,0,240 questions
+4231922,/course/deepdives-gcs/,Deep Dives — Google Cloud Storage,2021-08-09T14:36:13Z,26,True,$59.99,4.75,4,5.5 total hours
+4319590,/course/google-professional-collaboration-engineer-u/,Practice Exams - Professional Google Workspace Administrator,2021-09-26T04:10:44Z,618,True,$19.99,3.9411764,141,107 questions
+3857052,/course/google-cloud-professional-data-engineer-practice-exam-v/,Google Cloud Professional Data Engineer : Practice Exam 2023,2021-02-17T23:02:24Z,869,True,$19.99,4.05,12,150 questions
+4720338,/course/google-cloud-platform-interview-guide/,Google Cloud Platform Interview Guide,2022-06-06T05:52:23Z,179,True,$44.99,5.0,5,260 questions
+4377156,/course/google-associate-cloud-engineer-certification-tests-2022/,Google  Associate Cloud Engineer Certification Tests 2022,2021-11-01T15:20:27Z,1006,True,$49.99,4.5,3,179 questions
+3893300,/course/google-cloud-professional-cloud-developer-practitioner-exam/,Google Cloud Professional Cloud Developer Practitioner Exam,2021-03-05T15:38:55Z,2208,True,$19.99,3.55,39,130 questions
+2400192,/course/google-cloud-certified-professional-cloud-architect-exam/,Google Cloud Certified Professional Cloud Architect Exam,2019-06-05T17:45:14Z,69,True,$19.99,3.7222223,9,81 questions
+4064662,/course/master-google-cloud-a-step-by-step-guide-for-2021/,Master Google Cloud | A Step-by-Step Guide for 2023,2021-05-20T17:38:58Z,1388,True,$19.99,3.2857144,7,8 total hours
+4386388,/course/google-cloud-certified-architect-practice-exam-prep-nov-2021/,Google Certified Professional Cloud Architect Engineer Exam,2021-11-07T18:18:06Z,4,True,$19.99,1.0,1,100 questions
+5028536,/course/practice-exam-google-professional-cloud-architect-2022/,Practice Exam - Google Professional Cloud Architect 2023,2022-12-17T01:18:50Z,1,True,$24.99,0,0,125 questions
+4575546,/course/5x-google-cloud-professional-cloud-network-engineer-tests-z/,5X Google Cloud Professional Cloud Network Engineer Tests,2022-03-01T14:17:39Z,21,True,$39.99,1.0,1,477 questions
+2529222,/course/google-associate-cloud-engineer-practice-exams/,Google Associate Cloud Engineer - Practice exams,2019-08-27T09:37:04Z,11,True,$29.99,2.0,1,103 questions
+4989974,/course/google-professional-cloud-architect-exam/,Google Professional Cloud Architect Exam,2022-11-22T12:30:11Z,805,True,$19.99,5.0,3,260 questions
+4805364,/course/google-cloud-workshop-for-semiconductor-workloads/,Google Cloud Workshop for Semiconductor  Workloads,2022-07-29T04:26:06Z,3872,True,$19.99,4.3333335,9,2 total hours
+4994322,/course/google-associate-cloud-engineer-exam-v/,Google Associate Cloud Engineer Exam,2022-11-24T21:34:42Z,903,True,$19.99,5.0,7,196 questions
+4058788,/course/skillpractical-google-professional-cloud-architect-test-series-2021/,Google Professional Cloud Architect Test Series 2022,2021-05-18T12:54:07Z,44,True,$29.99,3.6,5,437 questions
+4123098,/course/google-cloud-professional-data-engineer-2021practice-test/,Google Cloud  Professional Data Engineer Practice Test -2021,2021-06-14T16:37:24Z,180,True,$49.99,2.95,14,150 questions
+4397450,/course/google-associate-cloud-engineer-exam/,Google Associate Cloud Engineer Exam,2021-11-14T21:53:19Z,712,True,$19.99,2.8333333,3,129 questions
+5120032,/course/google-cloud-platform-for-beginners-q/,Google Cloud Platform For Beginners,2023-01-28T20:46:07Z,0,True,$29.99,0,0,19.5 total hours
+4299253,/course/google-professional-cloud-developer-certification-2021/,Google : Professional Cloud Developer Certification 2021,2021-09-14T19:21:07Z,2322,True,$49.99,3.0,6,90 questions
+3732628,/course/google-security-engineer-certification/,Google Cloud Security Engineer Certification Practice Exams,2020-12-28T10:22:50Z,709,True,$19.99,3.85,107,101 questions
+4973124,/course/new-google-professional-cloud-security-engineer-2022-exams/,Google Professional Cloud Security Engineer Practice Exams,2022-11-11T16:21:31Z,238,True,$19.99,4.44,28,230 questions
+5048854,/course/google-certified-gcp-associate-cloud-engineer-practice-tests/,Google Certified Associate Cloud Engineer Practice Test,2022-12-29T18:46:34Z,28,True,$19.99,5.0,5,153 questions
+3715742,/course/google-professional-cloud-architect-exam-2021-update/,Google Professional Cloud Architect Exam [2022 Update],2020-12-19T21:37:00Z,15,True,$84.99,4.4166665,6,80 questions
+4852224,/course/google-professional-cloud-developer-exam-2022/,Google Professional Cloud Developer / Exam 2022,2022-08-26T16:06:22Z,5932,True,$19.99,4.571429,37,105 questions
+4363806,/course/google-exam-professional-cloud-architect-preparation/,Google Exam Professional Cloud Architect preparation,2021-10-23T19:53:45Z,0,True,$19.99,0,0,146 questions
+4068772,/course/become-a-guru-in-google-apigee-api-management-platform/,Become a Guru in Google Apigee API Management Platform,2021-05-22T08:46:24Z,1868,True,$59.99,4.2444444,242,10.5 total hours
+4848636,/course/google-professional-cloud-devops-engineer-test-2022/,Google Professional Cloud DevOps Engineer Test 2022,2022-08-24T15:13:06Z,4238,True,$19.99,4.4038463,41,100 questions
+5030174,/course/google-professional-machine-learning-engineer-practice-test-y/,Google Professional Machine Learning Engineer practice test,2022-12-18T12:38:26Z,60,True,$49.99,4.1666665,16,115 questions
+4334826,/course/google-professional-cloud-architect-practice-exams/,Google Professional Cloud Architect - Practice Exams,2021-10-05T08:37:54Z,3,True,$19.99,3.5,1,195 questions
+5027064,/course/latest-practice-test-google-cloud-associate-cloud-engineer/,Latest Practice Test - Google Cloud Associate Cloud Engineer,2022-12-16T01:58:59Z,8,True,$19.99,5.0,5,148 questions
+3614682,/course/google-cloud-associate-cloud-engineer-4-practice-tests/,Google Cloud || Associate Cloud Engineer || 4 Practice Tests,2020-11-04T18:11:47Z,2,True,$19.99,0,0,187 questions
+2735224,/course/transcription-101-google-speech-to-text-api-with-python/,Transcription 101: Google Speech to Text API with Python,2020-01-03T01:42:07Z,105,True,$29.99,3.6,25,1 total hour
+3614688,/course/google-cloud-professional-cloud-developer-practice-tests/,Google Cloud Professional Cloud Developer || Practice Tests,2020-11-04T18:13:33Z,16,True,$19.99,3.3333333,3,120 questions
+4376360,/course/google-professional-collaboration-engineer-certification/,Google Professional Collaboration Engineer Certification,2021-11-01T07:43:12Z,1031,True,$49.99,4.3,13,75 questions
+4862084,/course/google-cloud-professional-cloud-architect-exams-2022/,Google Cloud Professional Cloud Architect Exams 2022,2022-09-02T01:04:21Z,107,True,$19.99,5.0,1,124 questions
+5021872,/course/google-professional-cloud-devops-engineer-exam-2022-d/,Google Professional Cloud DevOps Engineer Exam 2023,2022-12-12T19:25:56Z,610,True,$19.99,4.785714,21,100 questions
+4773324,/course/google-professional-cloud-architect-data-engineer/,Google Professional Cloud Architect & Data Engineer Pack,2022-07-09T13:50:14Z,13026,True,$19.99,4.6,13,450 questions
+4956778,/course/gcp-all-in-one-practise-exam-tests/,Google  practise exam tests,2022-11-01T19:26:35Z,0,True,$19.99,0,0,41 questions
+2974560,/course/google-cloud/,Google Cloud for Machine Learning 2020 Master Course,2020-04-08T12:19:21Z,287,True,$84.99,4.5,34,10.5 total hours
+5009252,/course/google-cloud-professional-cloud-security-engineer-exam-a/,Google Cloud Professional Cloud Security Engineer Exam,2022-12-04T15:06:50Z,610,True,$19.99,5.0,15,108 questions
+1296698,/course/streaming-analytics-on-google-cloud-platform/,Streaming Analytics on Google Cloud Platform,2017-07-18T04:08:30Z,385,True,$19.99,3.65,37,1 total hour
+5032960,/course/google-professional-cloud-network-engineer-exam-s/,Google Professional Cloud Network Engineer Exam,2022-12-20T10:41:32Z,1397,True,$19.99,4.7777777,18,71 questions
+4852244,/course/google-cloud-professional-cloud-security-engineer-exam-2022/,Google Cloud Professional Cloud Security Engineer Exam 2022,2022-08-26T16:19:41Z,5069,True,$19.99,4.4736843,37,110 questions
+4483022,/course/looker-complete-guide-to-google-looker-lookml-developer/,Looker - Complete Guide to Google Looker - LookML Developer,2022-01-08T02:26:18Z,756,True,$84.99,4.576923,113,7 total hours
+4682754,/course/google-cloud-associate-engineer-a/,Google Cloud Associate Engineer - Practice Tests,2022-05-11T18:27:18Z,207,True,$19.99,5.0,1,180 questions
+4767110,/course/google-professional-cloud-architect-developer/,Google Professional Cloud Architect & Developer Mega Pack,2022-07-05T13:01:56Z,11854,True,$19.99,3.75,16,450 questions
+4968210,/course/google-professional-data-engineer-6-practice-exam-sets-2022/,Google Professional Data Engineer 6 Practice Exam Sets 2023,2022-11-08T18:29:37Z,16,True,$19.99,5.0,2,300 questions
+4987886,/course/google-professional-cloud-developer-exam/,Google Professional Cloud Developer Exam,2022-11-21T10:33:24Z,905,True,$19.99,4.8333335,6,130 questions
+5157114,/course/google-professional-cloud-database-engineer-practice-test/,Google Professional Cloud Database Engineer practice test,2023-02-14T06:15:05Z,4,True,$49.99,0,0,120 questions
+4377154,/course/google-professional-machine-learning-engineer-certification-f/,Google Professional Machine Learning Engineer Certification,2021-11-01T15:19:38Z,1057,True,$49.99,3.875,8,60 questions
+4927450,/course/google-certified-cloud-digital-leader-6-practice-exams-2022/,Google Certified Cloud Digital Leader 6 Practice Exams 2023,2022-10-13T19:58:27Z,85,True,$19.99,4.1,14,300 questions
+5061724,/course/google-cloud-professional-cloud-architect-practice-update/,Google Cloud Professional Cloud Architect Practice {Update},2023-01-05T06:24:22Z,1,True,$19.99,0,0,100 questions
+2307078,/course/apache-airflow-using-google-cloud-composer-introduction/,Apache Airflow using Google Cloud Composer: Introduction,2019-04-04T15:30:43Z,733,True,$44.99,3.95,160,4 total hours
+4986608,/course/google-professional-cloud-network-engineer-exam-m/,Google Professional Cloud Network Engineer Exam,2022-11-20T14:05:48Z,1006,True,$19.99,4.6666665,12,121 questions
+3465020,/course/google-cloud-architect-certification-practice-tests/,Google Cloud Architect Certification Practice Tests,2020-08-31T22:48:46Z,1,True,$19.99,0,0,80 questions
+4384380,/course/deploy-machine-learning-models-on-google-cloud-ai-platform/,Deploy machine learning models on Google Cloud AI Platform,2021-11-06T05:48:18Z,20,True,$69.99,5.0,3,32 total mins
+1924558,/course/deep-learning-with-tensorflow-and-google-cloud-ai-2-in-1/,Deep Learning with TensorFlow and Google Cloud AI: 2-in-1,2018-09-21T06:32:49Z,124,True,$84.99,4.0,9,8 total hours
+3616740,/course/google-bigquery-class/,Google BigQuery guide for beginners 2021,2020-11-05T17:13:22Z,136,True,$19.99,3.75,30,3 total hours
+4889714,/course/google-cloud-digital-leader-certification-practice-exam-2022/,Google Cloud Digital Leader Certification Practice Exam 2023,2022-09-19T16:29:41Z,1025,True,$19.99,4.25,8,74 questions
+5159452,/course/google-professional-cloud-architect-practice-exam-simulator/,Google Professional Cloud Architect Practice Exam - Feb 2023,2023-02-15T09:23:22Z,1,True,$39.99,0,0,150 questions
+5007060,/course/google-certified-professional-cloud-architect-practice-tests-y/,Google Certified Professional Cloud Architect Practice Tests,2022-12-02T16:58:06Z,1,True,$19.99,0,0,200 questions
+4777512,/course/google-professional-data-engineer-cloud-developer/,Google Professional Data Engineer & Cloud Developer Pack,2022-07-12T10:11:27Z,13182,True,$19.99,4.4,17,429 questions
+4985880,/course/google-cloud-professional-data-engineer-exam-z/,Google Cloud Professional Data Engineer Exam,2022-11-19T21:09:05Z,905,True,$19.99,4.6666665,3,203 questions
+5003622,/course/practice-tests-google-associate-cloud-engineer/,Practice Tests | Google Associate Cloud Engineer,2022-11-30T15:30:44Z,1101,True,$84.99,4.0,3,160 questions
+4232686,/course/google-cloud-digital-leader-practice-question-pool-q/,Google Cloud Digital Leader Practice Question Pool,2021-08-09T21:25:39Z,54,True,$24.99,3.45,10,120 questions
+4214164,/course/applied-machine-learning-with-bigquery-on-googles-cloud/,Applied Machine Learning with BigQuery on Google's Cloud,2021-07-31T05:37:44Z,65,True,$19.99,4.357143,7,2.5 total hours
+5057562,/course/google-cloud-professional-cloud-architect-test-2023/,Google Cloud Professional Cloud Architect Test 2023,2023-01-03T17:03:18Z,402,True,$19.99,0,0,260 questions
+4326926,/course/cloud-computing-for-managers-with-google-cloud/,Cloud Computing For Managers with Google Cloud,2021-09-30T06:41:56Z,1144,True,$29.99,4.45,17,5 total hours
+4577642,/course/3x-google-cloud-digital-leader-updated-2022-practice-tests-c/,3x Google Cloud Digital Leader Updated 2022 Practice Tests,2022-03-02T20:29:57Z,39,True,$39.99,3.9444444,9,295 questions
+834182,/course/learn-how-to-deploy-nodejs-app-on-google-compute-engine/,Learn How To Deploy Node.Js App on Google Compute Engine,2016-04-28T05:55:54Z,768,True,$19.99,2.75,24,44 total mins
+5083248,/course/google-professional-data-engineer-practice-exam-tests-2023/,Google Professional Data Engineer Practice Exam Tests 2023,2023-01-13T14:23:41Z,40,True,$19.99,5.0,2,203 questions
+3357394,/course/data-engineering-cloud-google-bigquery-data-studio/,Data Engineering with Google BigQuery & Google Cloud,2020-07-23T03:22:03Z,238,True,$84.99,4.7,32,6.5 total hours
+5028700,/course/google-cloud-certified-cloud-digital-leader-practice-test/,Google Cloud Certified Cloud Digital Leader Practice test,2022-12-17T06:28:41Z,12,True,$49.99,4.7,5,151 questions
+5023490,/course/google-professional-cloud-architect-exam-2022-t/,Google Professional Cloud Architect Exam 2022,2022-12-13T20:03:58Z,2514,True,$19.99,5.0,3,124 questions
+4880728,/course/google-professional-cloud-architect-practice-tests-2022/,Google  Professional Cloud Architect  | Practice Tests 2022,2022-09-13T17:57:40Z,1003,True,$19.99,0,0,124 questions
+4162608,/course/serverless/,Deploy a Serverless Django app on Google App Engine,2021-07-03T19:55:02Z,342,True,$29.99,4.55,31,3.5 total hours
+4855678,/course/google-cloud-certified-professional-data-engineer-exam/,Google Cloud Certified Professional Data Engineer 2023,2022-08-29T06:15:34Z,37,True,$84.99,4.3333335,6,17.5 total hours
+4377150,/course/google-cloud-digital-leader-certification-exam-2022/,Google Cloud Digital Leader Certification Exam 2022,2021-11-01T15:19:04Z,1013,True,$54.99,4.125,4,60 questions
+4441016,/course/google_bigquery/,The Complete Google BigQuery & Data Analysis Course 2022,2021-12-12T01:26:42Z,1081,True,$84.99,4.55,19,4 total hours
+4915332,/course/google-certified-associate-cloud-engineer-practice-exams-m/,Google Certified Associate Cloud Engineer Practice Exams,2022-10-06T06:30:38Z,11,True,$19.99,0,0,197 questions
+5072566,/course/google-cloud-associate-cloud-engineer-test-2023/,Google Cloud Associate Cloud Engineer Test 2023,2023-01-09T13:00:30Z,401,True,$19.99,0,0,196 questions
+4755418,/course/terraform-on-google-cloud-learn-infrastructure-as-code/,Terraform for Google Cloud: Learn Infrastructure as Code,2022-06-28T00:55:16Z,596,True,$84.99,4.2608695,32,9 total hours
+4330064,/course/basics-cloud/,"prerequisites to learn cloud computing (AWS, Azure & Google)",2021-10-02T04:27:59Z,106,True,$29.99,3.7,24,8.5 total hours
+3109524,/course/learning-python-on-google-cloud/,Learning Python on Google Cloud,2020-05-10T00:45:20Z,309,True,$19.99,4.1,13,3.5 total hours
+3320314,/course/google-cloud-professional-data-engineer-practice-exam-f/,Google Cloud Professional Data Engineer Practice Exam,2020-07-10T21:15:33Z,10,True,$19.99,1.0,1,162 questions
+2898416,/course/practical-google-bigquery-for-those-who-already-know-sql/,Practical Google BigQuery for those who already know SQL,2020-03-22T13:35:28Z,1348,True,$24.99,4.4,265,3 total hours
+3598456,/course/introduction-to-cloud-data-analytics-with-google-bigquery/,Introduction to Cloud Data Analytics with Google BigQuery,2020-10-28T03:45:53Z,80,True,$19.99,4.2,25,3.5 total hours
+3473914,/course/google-bigquery-and-sql-with-google-analytics-4/,Google BigQuery and SQL with Google Analytics 4,2020-09-04T04:22:49Z,379,True,$99.99,4.15,56,1 total hour
+4033132,/course/google-professional-cloud-security-engineer-exam/,Google Professional Cloud Security Engineer Exam,2021-05-07T07:44:46Z,0,True,$24.99,0,0,52 questions
+4990226,/course/google-professional-cloud-security-engineer-exam-q/,Google Professional Cloud Security Engineer Exam,2022-11-22T14:46:06Z,805,True,$19.99,5.0,4,181 questions
+2857826,/course/google-bigquery/,Google BigQuery:Hands-On SQL Training for Data Analysis,2020-03-07T20:44:56Z,67,True,$84.99,3.75,15,3 total hours
+4767266,/course/google-cloud-professional-data-engineer-exams/,Google Cloud Professional Data Engineer Practice Tests,2022-07-05T14:31:33Z,2,True,$19.99,5.0,1,250 questions
+5055072,/course/google-cloud-professional-cloud-developer-test-2023/,Google Cloud Professional Cloud Developer Test 2023,2023-01-02T18:43:56Z,400,True,$19.99,5.0,1,130 questions
+4652864,/course/api-development-with-apigee-x/,API Development with Apigee (- X)  on Google Cloud,2022-04-21T08:56:39Z,316,True,$84.99,4.357143,36,11.5 total hours
+4933424,/course/googleclouddigitalleaderexam/,Google Cloud Digital Leader - ExamPractice Test 2022 +150 QA,2022-10-17T23:17:22Z,19,True,$19.99,4.8,5,177 questions
+5021896,/course/google-professional-cloud-developer-exam-2022-l/,Google Professional Cloud Developer Exam 2022,2022-12-12T19:53:43Z,1251,True,$19.99,4.571429,7,100 questions
+5026970,/course/google-professional-data-engineer-exam-2022/,Google Professional Data Engineer Exam 2022,2022-12-15T23:38:43Z,1337,True,$19.99,5.0,2,200 questions
+4986594,/course/google-professional-collaboration-engineer-exam-f/,Google Professional Collaboration Engineer Exam,2022-11-20T13:48:28Z,903,True,$19.99,5.0,6,77 questions
+5023562,/course/google-professional-machine-learning-engineer-exam-2022/,Google Professional Machine Learning Engineer Exam 2022,2022-12-13T21:15:42Z,1230,True,$19.99,5.0,5,55 questions
+4984002,/course/google-professional-machine-learning-engineer-exam-z/,Google Professional Machine Learning Engineer Exam,2022-11-18T13:34:33Z,905,True,$19.99,5.0,4,60 questions
+3331252,/course/train-and-deploy-deep-learning-models/,Train and Deploy Tensorflow models using Google AI Platform,2020-07-14T14:08:00Z,2468,True,$29.99,4.6,66,8.5 total hours
+1282164,/course/serverless-data-analysis-with-big-query-on-googles-cloud/,Serverless Data Analysis with Big Query on Google's Cloud,2017-07-06T15:49:27Z,779,True,$49.99,4.3,125,1 total hour
+5041202,/course/google-cloud-professional-data-engineer-test-2023/,Google Cloud Professional Data Engineer Test 2023,2022-12-25T14:48:23Z,501,True,$19.99,0,0,203 questions
+5073252,/course/google-cloud-professional-security-enginner-architect-exam/,Google Cloud Professional Security Enginner & Architect Exam,2023-01-09T17:26:11Z,100,True,$19.99,0,0,234 questions
+4849232,/course/google-cloud-platform-and-bigquery-sql/,Google Cloud Platform and BigQuery SQL,2022-08-24T21:42:44Z,106,True,$84.99,3.0,1,7.5 total hours
+4857144,/course/google-cloud-professional-developer-practice-exams-2022/,Google Cloud Professional Developer Practice Exams 2022,2022-08-30T01:18:37Z,1,True,$19.99,0,0,100 questions
+4760632,/course/gcp-beginner-associate-and-architect-level-practice-tests/,Practice Tests: Google Cloud Professional Architect 2022,2022-07-01T00:41:46Z,2,True,$19.99,0,0,139 questions
+4898606,/course/2022-google-professional-cloud-architect-exam-questions/,2022 Google Professional Cloud Architect Exam Questions,2022-09-25T09:48:52Z,0,True,$49.99,0,0,100 questions
+4950070,/course/ace-the-google-cloud-certified-cloud-digital-leader-exam/,Ace the Google Cloud Certified Cloud Digital Leader Exam,2022-10-28T06:36:45Z,46,True,$19.99,4.8333335,3,350 questions
+2959672,/course/google-bigquery-learn-professional-sql-for-big-data/,Google BigQuery: Learn Professional SQL for Big Data,2020-04-05T03:20:00Z,35,True,$29.99,3.6,5,2 total hours
+5140184,/course/google-cloud-security-best-practices/,Google Cloud Security Best Practices Crash Course,2023-02-06T03:02:01Z,73,True,$39.99,4.6666665,3,2.5 total hours
+5083608,/course/google-professional-cloud-security-engineer-exam-tests-2023/,Google Professional Cloud Security Engineer Exam Tests 2023,2023-01-13T17:34:31Z,125,True,$24.99,4.5,1,110 questions
+5008864,/course/google-professional-cloud-security-engineer-practice-exams-i/,Google Professional Cloud Security Engineer : Practice Exams,2022-12-04T08:19:48Z,2,True,$19.99,4.0,1,200 questions
+4862954,/course/google-cloud-basics-compute-engine-quiz/,Google Cloud Basics: Compute Engine Quiz,2022-09-02T14:33:23Z,8,True,$19.99,5.0,1,50 questions
+4992526,/course/google-cloud-digital-leader-exam-j/,Google Cloud Digital Leader Exam,2022-11-23T20:04:33Z,902,True,$19.99,4.05,10,156 questions
+5053572,/course/google-cloud-digital-leader-certification-practice-test/,Google Cloud Digital Leader Certification Practice Test 2023,2023-01-02T02:23:45Z,4,True,$19.99,0,0,264 questions
+4987840,/course/google-professional-cloud-devops-engineer-exam-x/,Google Professional Cloud DevOps Engineer Exam,2022-11-21T10:20:05Z,902,True,$19.99,4.35,10,100 questions
+5050786,/course/google-professional-cloud-network-engineer-test-2023/,Google Professional Cloud Network Engineer Test 2023,2022-12-30T23:34:31Z,502,True,$19.99,0,0,120 questions
+5098708,/course/google-professional-cloud-developer-practice-exam-g/,Google Professional Cloud Developer Practice Exam,2023-01-19T22:29:27Z,1906,True,$19.99,4.875,4,100 questions
+4957564,/course/google-professional-cloud-devops-engineer-oh/,Google Cloud Professional DevOps Engineer Practice Tests,2022-11-02T07:47:32Z,1,True,$19.99,0,0,100 questions
+4880638,/course/google-professional-cloud-devops-engineer-practice-tests/,Google Professional Cloud DevOps Engineer | Practice Tests,2022-09-13T17:12:22Z,2005,True,$19.99,3.0,2,100 questions
+4468572,/course/google-bigquery-ml-machine-learning-in-sql-without-python/,Google BigQuery ML Machine Learning in SQL (without Python),2021-12-30T19:04:34Z,135,True,$19.99,4.85,12,3.5 total hours
+5033844,/course/new-tests-google-cloud-professional-cloud-security-engineer-o/,New Tests Google Cloud Professional Cloud Security Engineer,2022-12-20T20:53:20Z,1001,True,$19.99,4.5,1,110 questions
+4843488,/course/professional-google-workspace-administrator-practice-test/,Professional Google Workspace Administrator Practice Test,2022-08-21T17:11:04Z,30,True,$19.99,3.8,5,162 questions
+5101718,/course/google-professional-cloud-devops-engineer-practice-exam/,Google Professional Cloud DevOps Engineer Practice Exam,2023-01-21T12:22:53Z,2018,True,$19.99,4.9,5,100 questions
+5124970,/course/google-cloud-digital-leader-and-associate-engineer-tests-together/,Google Cloud Digital Leader and Associate Engineer Tests[HQ],2023-01-30T20:03:52Z,2,True,$29.99,5.0,1,200 questions
+4362208,/course/automlgoogle/,Master AutoML - Google Cloud - Vertex AI,2021-10-22T15:15:31Z,1069,True,$69.99,3.15,12,2 total hours
+401854,/course/google-glass-application-development-complete-training/,Google Glass Application Development Complete Training,2015-01-23T04:31:05Z,93,True,$19.99,2.9285715,7,3 total hours
+5069902,/course/google-cloud-digital-leader-test-2023/,Google Cloud Digital Leader Test 2023,2023-01-08T10:00:29Z,400,True,$19.99,4.8333335,3,156 questions
+5101728,/course/google-cloud-professional-cloud-security-engineer-exam-p/,Google Cloud Professional Cloud Security Engineer Exam,2023-01-21T12:34:43Z,2686,True,$19.99,4.5625,8,110 questions
+1781832,/course/google-analytics-certificate-gaiq-in-24-hours-english/,Google Analytics Certification - GAIQ in 24 hours (English),2018-07-04T13:42:26Z,1846,True,$84.99,3.95,40,1 total hour
+1832446,/course/google-adwords-display-certification/,Google Ads Display Certification - certified within a day,2018-08-01T09:56:54Z,1573,True,$69.99,3.45,19,37 total mins
+2269374,/course/google-cloud-firebase-and-firestore-nosql-db-introduction/,Google cloud Firebase and Firestore NoSQL DB : Introduction,2019-03-13T09:04:31Z,69,True,$84.99,3.9285715,7,2.5 total hours
+4331554,/course/learning-google-drive-from-scratch/,Learning Google Drive from Scratch,2021-10-03T08:25:26Z,744,True,$19.99,5.0,1,1 total hour
+4991856,/course/google-drive-a-to-z-guide-cloud-storage-file-sharing-tool/,Google Drive A to Z Guide: Cloud Storage & File Sharing Tool,2022-11-23T11:56:10Z,7,True,$19.99,5.0,2,1 total hour
+4034758,/course/an-introduction-to-googles-looker-a-developer-series/,An Introduction to Google’s Looker – A Developer Series,2021-05-08T00:52:08Z,109,True,$49.99,3.45,26,2.5 total hours
+5049050,/course/google-cloud-certified-digital-leader-exam/,Google Cloud Certified Digital Leader Exam 2023,2022-12-29T20:41:16Z,32,True,$19.99,0,0,256 questions
+5035478,/course/google-professional-cloud-developer-practice-tests-2022-b/,Google Professional Cloud Developer | Practice Tests 2022,2022-12-21T20:25:50Z,1000,True,$19.99,0,0,109 questions
+4704782,/course/lookml-google-looker-for-developers/,LookML A-Z: Google Looker for Developers,2022-05-26T10:30:10Z,10171,True,$19.99,4.5,19,4 total hours
+4907532,/course/get-certified-cloud-digital-leader/,Get Certified: Google Cloud Digital Leader Practice Tests,2022-09-30T19:59:45Z,1,True,$19.99,0,0,100 questions
+5046850,/course/professional-google-workspace-administrator-test-2023/,Professional Google Workspace Administrator Test 2023,2022-12-28T18:18:54Z,509,True,$19.99,4.5,3,77 questions
+5053000,/course/google-professional-cloud-devops-engineer-test-2023/,Google Professional Cloud DevOps Engineer Test 2023,2023-01-01T17:07:56Z,401,True,$19.99,0,0,100 questions
+1480490,/course/google-analytics-course/,Google Analytics Comprehensive course for certification,2017-12-24T07:10:32Z,394,True,$84.99,4.3,90,1.5 total hours
+5031924,/course/google-professional-ml-engineer-test-2023/,Google Professional ML Engineer Test 2023,2022-12-19T17:04:03Z,403,True,$19.99,5.0,1,60 questions
+5026980,/course/google-professional-collaboration-engineer-exam-2022/,Google Professional Collaboration Engineer Exam 2022,2022-12-15T23:48:52Z,1282,True,$19.99,5.0,3,76 questions
+5140288,/course/google-professional-cloud-security-engineer-practice-exam-m/,Google Professional Cloud Security Engineer Practice test,2023-02-06T04:48:42Z,2,True,$49.99,5.0,2,177 questions
+2326860,/course/google-digital-sales-certification-exam-practice-test-2019/,Google Digital Sales Certification Exam Practice Test 2021,2019-04-17T16:18:24Z,2481,True,$29.99,4.55,20,56 questions
+5111708,/course/2023-google-professional-cloud-developer-practice-exams-new/,[2023] Google Professional Cloud Developer Practice Exams,2023-01-25T15:50:50Z,1193,True,$19.99,0,0,300 questions
+5138798,/course/google-professional-data-engineer-exam-e/,Google Professional Data Engineer Exam,2023-02-05T12:09:07Z,1000,True,$19.99,0,0,200 questions
+4737164,/course/google-certified-professional-data-engineer-practice-exam/,Google Certified Professional Data Engineer Practice Exam,2022-06-16T09:33:25Z,0,True,$49.99,0,0,240 questions
+5000474,/course/google-adwords-fundamentals-certification-practice-test/,Google AdWords Fundamentals Certification : For Beginner,2022-11-28T23:19:57Z,1,True,$19.99,0,0,210 questions
+5097204,/course/google-cloud-digital-leader-certification-practice-exams1/,Google Cloud Digital Leader Certification Practice Test,2023-01-19T10:23:25Z,0,True,$19.99,0,0,123 questions
+2329304,/course/advanced-google-analytics-practice-test-2019/,Advanced Google Analytics Practice Test 2019,2019-04-19T09:55:32Z,2980,True,$29.99,3.7,11,84 questions
+3608236,/course/how-to-pass-google-cloud-certification-exams/,How to Pass Google Cloud Certification Exams,2020-11-01T19:55:13Z,10343,False,Free,4.730769,542,1 total hour
+2365036,/course/make-wordpress-hosting-easy-with-plesk-on-google-cloud/,Make WordPress Hosting Easy with Plesk on Google Cloud,2019-05-13T06:15:52Z,9239,False,Free,4.85,152,1 total hour
+3618942,/course/creating-a-cpanel-whm-instance-using-google-cloud/,Creating a cPanel & WHM server using the Google Cloud,2020-11-06T18:25:50Z,4968,False,Free,4.5,53,30 total mins
+5006150,/course/getting-started-with-google-drive-2023/,Getting Started with Google Drive,2022-12-02T04:12:42Z,945,False,Free,3.6,5,34 total mins
+3899824,/course/certificacao-google-cloud-associate/,Certificação Google Cloud Associate Engineer (GCP) 2023,2021-03-08T17:43:30Z,5037,True,$84.99,4.7234044,1085,9 total hours
+3582676,/course/professional-google-cloud-architect-aprenda-sobre-google-cloud/,Google Cloud Platform (GCP) do Zero ao Avançado,2020-10-21T01:53:15Z,2946,True,$84.99,4.72561,632,13 total hours
+4163958,/course/google-cloud-certified-associate-cloud-engineer-2021-espanol/,Google Cloud Certified Associate Cloud Engineer 2022 Español,2021-07-04T16:15:32Z,3732,True,$84.99,4.648148,628,12 total hours
+4279478,/course/destrinchando-o-gcp/,Destrinchando o Google Cloud Platform (GCP),2021-09-03T16:04:47Z,658,True,$19.99,4.8863635,74,24.5 total hours
+3076340,/course/google-cloud-platform-jp/,最速で学ぶ - Google Cloud Platform（GCP）入門完全攻略コース,2020-05-01T14:16:02Z,7742,True,$84.99,4.2541666,1281,6 total hours
+4591312,/course/google-cloud-i/,Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める,2022-03-11T09:42:06Z,2484,True,$79.99,4.436893,325,19 total hours
+4597390,/course/architecte-google-gcp-edition-2022/,Architecte google GCP  [Edition 2022],2022-03-15T11:00:26Z,150,True,$84.99,3.9,20,10 total hours
+2465700,/course/google-cloud-para-iniciantes/,Google Cloud Para Iniciantes (GCP)- Domine a Nuvem do Google,2019-07-18T15:38:59Z,2838,True,$64.99,4.806452,786,6 total hours
+4473754,/course/google-cloud-professional-cloud-architect-i/,【最短攻略】Google Cloud 認定 Professional Cloud Architect 模擬問題集,2022-01-03T14:13:01Z,2984,True,$19.99,4.4503546,369,170 questions
+4551778,/course/gcpgoogle-cloud4200-y/,GCP：Google Cloud Associate Cloud Engineer模擬試験問題集（4回分200問）,2022-02-15T08:29:55Z,2008,True,$19.99,3.871795,204,200 questions
+3736932,/course/engenharia-de-dados-com-apache-beam-google-dataflow-gcp/,Engenharia de Dados com Google Dataflow e Apache Beam na GCP,2020-12-30T01:55:55Z,899,True,$19.99,4.730769,212,3.5 total hours
+3581573,/course/google-cloud-platform-espanol/,Guía de Google Cloud Platform | Laboratorios | Cuestionarios,2020-10-20T14:39:54Z,1282,True,$49.99,4.6041665,234,8 total hours
+3778016,/course/google-cloud-platform-fundamentos-laboratorios-practicas/,Google Cloud Platform - Fundamentos Laboratorios y Practicas,2021-01-15T23:17:01Z,31378,True,$84.99,4.3378377,668,6 total hours
+2963154,/course/gcp-ace-mogi/,【GCP認定資格】Google Cloud Platform Associate Cloud Engineer模擬問題集,2020-04-05T23:52:06Z,4499,True,$19.99,4.154762,582,170 questions
+4627026,/course/cursus-cloud-azure-amazon-aws-et-google-gcp/,"Cursus cloud (Azure, Amazon AWS et Google GCP)",2022-04-04T12:34:36Z,193,True,$84.99,4.4,14,30 total hours
+4284308,/course/comienza-con-google-cloud-platform/,Comienza con Google Cloud Platform,2021-09-06T16:02:08Z,364,True,$84.99,4.5434785,99,1.5 total hours
+3924422,/course/simulado-certificacao-google-cloud-associate-2021/,Simulado Certificação Google Cloud Associate Engineer 2023,2021-03-19T08:07:22Z,620,True,$84.99,4.1666665,46,180 questions
+4333008,/course/zostan-administratorem-systemow-it-z-google-cloud/,Zostań administratorem systemów IT z Google Cloud,2021-10-04T08:18:51Z,120,True,$84.99,3.6,17,6.5 total hours
+2148120,/course/google-cloud-platform-gcp/,現役エンジニアが教える、手を動かして学ぶGoogle Cloud Platform(GCP) 入門,2019-01-13T08:46:51Z,5266,True,$79.99,4.2,1165,2.5 total hours
+3938170,/course/introduccion-a-google-cloud-platform/,Introducción a Google Cloud Platform,2021-03-25T14:52:31Z,20145,True,$24.99,3.7,219,3.5 total hours
+5082668,/course/2023google-cloud-cloud-digital-leader/,【2023年更新 的中率90%】GCP : Google Cloud Cloud Digital Leader  過去問,2023-01-13T09:49:58Z,443,True,$19.99,4.5789475,20,150 questions
+4523250,/course/google-cloud-professional-data-engineer-s/,【最短攻略】Google Cloud 認定 Professional Data Engineer 模擬問題集,2022-01-30T04:50:55Z,1082,True,$19.99,4.25,99,150 questions
+4472816,/course/google-cloud-associate-cloud-engineer-z/,【最短攻略】Google Cloud 認定 Associate Cloud Engineer 模擬問題集,2022-01-03T01:25:50Z,755,True,$19.99,4.1136365,72,110 questions
+4545466,/course/google-cloud-gcp-para-iniciantes/,Google Cloud (GCP) para Iniciantes Direto ao Ponto,2022-02-11T06:55:42Z,102,True,$19.99,4.7916665,40,1.5 total hours
+4738316,/course/2022gcp-associate-cloud-engineer-google-cloud/,Google Cloud認定 Associate Cloud Engineer（ACE）合格コース,2022-06-17T02:24:21Z,802,True,$39.99,4.345,196,6 total hours
+4359550,/course/google-cloud-big-data-and-machine-learnig-espanol-gabriel-alvarado/,Google Cloud Big Data and Machine Learnig Español,2021-10-21T01:32:28Z,67,True,$69.99,4.0,8,5.5 total hours
+3517218,/course/gcp-professional-cloud-network-engineer-exame-pratico/,GCP Professional Cloud Network Engineer - Exame prático,2020-09-21T19:40:06Z,11,True,$19.99,4.75,4,50 questions
+4072658,/course/gcp-pde-test-ja/,【GCP認定資格】 Professional Data Engineer 模擬問題集,2021-05-23T23:54:55Z,332,True,$19.99,3.45,63,100 questions
+2991974,/course/formation-bigquery-google-big-query-niveau-1-en-francais/,Formation BigQuery (Google Big Query) niveau 1 (en français),2020-04-12T11:50:51Z,407,True,$19.99,4.633333,136,2 total hours
+4312238,/course/gcp-cloud-architect/,Google Professional Cloud Architect GCPCA 5 Übungsprüfungen,2021-09-21T21:20:11Z,2001,True,$29.99,4.25,2,200 questions
+3551990,/course/tu-website-con-google-cloud-platform-y-wordpress/,Crea tu Host en Google Cloud para WordPress - INTENSIVO,2020-10-07T05:29:23Z,3069,True,$39.99,4.65,15,1 total hour
+4925342,/course/gcp-digital-leader-certificacion-examen-practico-2022/,GCP Digital Leader Certificacion Examen Practico 2023,2022-10-12T16:31:31Z,35,True,$19.99,3.25,2,331 questions
+3081402,/course/formation-bigquery-google-big-query-niveau-2-en-francais/,Formation BigQuery (Google Big Query) niveau 2 (en français),2020-05-02T18:20:16Z,290,True,$24.99,4.35,78,2 total hours
+3696596,/course/google-cloud-platform-practico/,Google Cloud Platform - Practico,2020-12-10T22:20:52Z,342,True,$84.99,3.75,38,4.5 total hours
+4982444,/course/gcp-associate-cloud-engineer-examen-practico-2023/,GCP Associate Cloud Engineer Examen Practico 2023,2022-11-17T12:54:32Z,2,True,$29.99,3.25,2,60 questions
+4248614,/course/google-cloud-professional-cloud-developer-ja/,Google Cloud 認定 Professional Cloud Developer 模擬問題集,2021-08-18T07:30:17Z,96,True,$19.99,1.1,17,92 questions
+4166290,/course/google-bigquery-engenharia-de-dados-em-portugues/,Curso Google BigQuery em Português (Engenharia de Dados),2021-07-05T17:25:00Z,743,True,$24.99,4.3472223,218,5 total hours
+4538786,/course/introduccion-a-google-cloud-storage/,Introducción a Google Cloud Storage,2022-02-07T18:53:14Z,90,True,$24.99,4.35,19,2 total hours
+5089714,/course/menguasai-google-cloud-platform-fundamental-zero-to-hero/,Menguasai Google Cloud Platform Fundamental Zero to Hero,2023-01-16T12:19:53Z,11,True,$19.99,4.95,10,3 total hours
+4409700,/course/gcp-professional-data-engineer-pratice-exam/,GCP Professional Data Engineer - Pratice Exam,2021-11-22T19:28:17Z,25,True,$19.99,4.8125,8,98 questions
+4231734,/course/google-cloud-professional-cloud-architect-jp/,Google Cloud 認定 Professional Cloud Architect 模擬問題集,2021-08-09T13:01:15Z,193,True,$19.99,1.8,39,214 questions
+4668810,/course/simulado-certificacao-google-cloud-digital-leader/,Simulado Certificação Google Cloud Digital Leader,2022-05-02T11:25:49Z,49,True,$19.99,2.75,10,140 questions
+3179428,/course/google-cloud-certified-professional-cloud-architect-exam-h/,Google Cloud Certified Professional Cloud Architect Exam,2020-05-28T20:36:21Z,441,True,$19.99,4.25,12,200 questions
+4276292,/course/google_cloud_engineer/,Google Associate Cloud Engineer,2021-09-01T21:56:25Z,93,True,$84.99,4.4,13,22 total hours
+4240978,/course/google-cloud-associate-cloud-engineer-ja/,Google Cloud 認定 Associate Cloud Engineer 模擬問題集,2021-08-14T06:59:33Z,55,True,$19.99,3.125,4,133 questions
+4900350,/course/gcp-professional-cloud-architect-exame-pratico/,GCP Professional Cloud Architect - Exame prático,2022-09-26T14:19:15Z,12,True,$19.99,5.0,2,148 questions
+4310580,/course/googlepca/,PCA（Google Professional Cloud Architect）が”ざっくり”「スッキリ」分かる講座,2021-09-21T02:35:31Z,364,True,$29.99,3.9571428,62,7 total hours
+4900344,/course/gcp-cloud-digital-leader-exame-pratico/,GCP Cloud Digital Leader - Exame prático,2022-09-26T14:17:13Z,14,True,$19.99,4.2,5,52 questions
+2538562,/course/curso-de-google-suite-desde-cero-hasta-experto/,"Herramientas de Google 2023, ¡Desde Cero Hasta Experto!",2019-09-01T17:34:26Z,1917,True,$84.99,4.5,262,12.5 total hours
+1156834,/course/cloud-computing-aws-google-cloud-azure/,"Cloud Computing - AWS, Google Cloud e Azure - Dados na nuvem",2017-03-24T17:19:46Z,6908,True,$19.99,4.6222224,2097,9 total hours
+3517102,/course/gcp-professional-cloud-security-engineer-exame-pratico/,GCP Professional Cloud Security Engineer - Exame prático,2020-09-21T18:58:28Z,16,True,$19.99,4.625,4,50 questions
+4900360,/course/gcp-professional-data-engineer-exame-pratico/,GCP Professional Data Engineer  - Exame prático,2022-09-26T14:21:57Z,5,True,$19.99,5.0,1,98 questions
+5024218,/course/google-cloud-professional-cloud-architectpca/,Google Cloud認定 Professional Cloud Architect（PCA） トレーニング,2022-12-14T09:50:31Z,81,True,$39.99,4.5,18,7.5 total hours
+4214358,/course/professional-collaboration-engineer/,Google Cloud 認定 Professional Collaboration Engineer 模擬問題集,2021-07-31T09:18:57Z,56,True,$19.99,2.5,11,118 questions
+5093622,/course/gcp-professional-architect-final-updated-practice-exams/,GCP Professional Architect.- Final Updated Practice Exams,2023-01-17T20:37:26Z,0,True,$19.99,0,0,278 questions
+4237544,/course/google-cloud-professional-cloud-security-engineer-ja/,Google Cloud 認定 Professional Cloud Security Engineer 模擬問題集,2021-08-12T08:39:47Z,25,True,$19.99,1.0,3,119 questions
+4248600,/course/google-cloud-professional-data-engineer-ja/,Google Cloud 認定 Professional Data Engineer 模擬問題集,2021-08-18T07:15:12Z,51,True,$19.99,3.0714285,7,205 questions
+4734842,/course/psegoogle-professional-security-engineer/,PSE（Google Professional Security Engineer）が”ざっくり”「スッキリ」分かる講座,2022-06-14T22:50:47Z,215,True,$24.99,4.4666667,29,3.5 total hours
+5164182,/course/gcp-professional-cloud-database-engineer-exame-pratico/,GCP Professional Cloud Database Engineer - Exame prático,2023-02-17T14:13:33Z,3,True,$19.99,5.0,1,112 questions
+1828750,/course/maitriser-ses-donnees-google-drive/,Maîtriser ses données avec Google Drive !,2018-07-30T14:20:29Z,294,True,$84.99,4.55,80,3 total hours
+4898056,/course/google-maps-sdk-para-android-y-kotlin-curso-completo-cloud-platform/,Google Maps SDK para Android y Kotlin de la A a la Z,2022-09-24T19:59:39Z,292,True,$84.99,4.7,18,17.5 total hours
+5055996,/course/google-looker-studio-google-data-studio-egitimi/,Google Looker Studio (Google Data Studio) eğitimi,2023-01-03T04:39:18Z,21,True,$24.99,4.6666665,6,5.5 total hours
+4919358,/course/google-cloud-cloud-digital-leader-portugues/,Google Cloud Cloud Digital Leader - Português,2022-10-08T19:00:45Z,234,True,$19.99,4.5,18,2.5 total hours
+4237416,/course/google-cloud-professional-cloud-devops-engineer-ja/,Google Cloud 認定 Professional Cloud DevOps Engineer 模擬問題集,2021-08-12T07:28:57Z,20,True,$19.99,2.3333333,3,51 questions
+4439894,/course/2nd_step_sql/,超入門の次はコレ!文系ビジネスパーソンのための手を動かして学ぶSQL(Google Big Query使用/初級レベル),2021-12-11T02:26:15Z,196,True,$79.99,4.6,31,2.5 total hours
+4674506,/course/bigquery_dataportal_basic/,Google BigQueryとGoogle Data Portal【旧Data Studio】から始めるデータ活用入門,2022-05-06T04:18:50Z,279,True,$84.99,4.6,26,7 total hours
+4801544,/course/pnegoogle-professional-network-engineer/,PNE（Google Professional Network Engineer）が”ざっくり”「スッキリ」分かる講座,2022-07-27T00:26:49Z,78,True,$19.99,4.75,2,2.5 total hours
+5145506,/course/google-cloud-professional-data-engineerpde/,Google Cloud認定 Professional Data Engineer（PDE） トレーニング,2023-02-08T11:16:10Z,21,True,$44.99,4.857143,7,6 total hours
+4895566,/course/gcp-google-cloud-digital-leader-3150/,【GCP認定資格】基礎編  Google Cloud Digital Leader 完全模擬試験（202問）,2022-09-23T00:56:22Z,128,True,$19.99,2.75,16,202 questions
+4850292,/course/sql-bigquery/,SQL Completo com Google BigQuery Para Analise de Dados,2022-08-25T13:31:16Z,59,True,$44.99,4.45,11,8 total hours
+3804076,/course/aprende-google-bigquery-introduccion/,Crea tu Data Warehouse en Google BigQuery!  - INTENSIVO,2021-01-26T23:05:17Z,4157,True,$49.99,3.45,29,1 total hour
+1638790,/course/impara-google-drive-da-zero-la-suite-office-di-google-in-cloud/,La Suite Office Di Google Drive: Sfrutta La Potenza Cloud™,2018-04-09T22:18:43Z,338,True,$19.99,3.5,81,6.5 total hours
+4660484,/course/google-fogli-e-cloud-corso-master-con-teoria-ed-esempi/,Google Fogli e Cloud. Corso MASTER 2023 con teoria ed esempi,2022-04-26T11:06:10Z,87,True,$19.99,4.3,52,8.5 total hours
+4881308,/course/google-drive-work-efficiency/,Google 雲端工作術｜把你的工作躍上雲端，只要有網路，哪裡都能找到檔案！,2022-09-14T03:48:16Z,6,True,$89.99,5.0,1,6 total hours
+4225698,/course/google-cloud-associate-cloud-engineer-2021-exam-900-qa/,Google Cloud Associate Cloud Engineer 2021 - Exam 900 QA!!,2021-08-06T10:05:42Z,2,True,$24.99,0,0,941 questions
+5146856,/course/google-cloud-professional-cloud-security-engineer/,Google Cloud - Professional Cloud Security Engineer【模擬問題集】,2023-02-08T23:08:06Z,3,True,$19.99,0,0,170 questions
+5151556,/course/google-cloud-professional-cloud-developer/,Google Cloud - Professional Cloud Developer【模擬問題集】,2023-02-11T09:03:51Z,1,True,$19.99,0,0,129 questions
+3612868,/course/google-cloud-data-engineer-practice-tests-200-ques/,Google Cloud || Data Engineer || Practice Tests || 200+ Ques,2020-11-03T21:59:24Z,14,True,$19.99,0,0,181 questions
+4903046,/course/googlegoogle-workspace-administrator-2102/,【G suite資格】 Google Workspace Administrator 完全模擬試験（2回分：102問）,2022-09-28T04:08:25Z,79,True,$19.99,3.0,7,102 questions
+5094722,/course/google-cloud-professional-cloud-security-engineer-tests-2023-i/,Google Cloud Professional Cloud Security Engineer Exam 2023,2023-01-18T09:19:01Z,3,True,$19.99,0,0,225 questions
+3387820,/course/introduccion-a-datastudio-con-google-sheets-y-mysql/,Introducción a Data studio con Google Sheets y MySQL (BETA),2020-08-02T23:14:44Z,659,True,$19.99,3.85,53,3 total hours
+1994776,/course/google-assistant/,Google Assistant生活自動化應用,2018-10-29T00:46:12Z,33,True,$84.99,5.0,2,1.5 total hours
+4020766,/course/google-cloud-professional-data-engineer-practice-test/,Google Cloud Professional Data Engineer Practice Test 2023,2021-05-02T01:04:45Z,1387,True,$19.99,0,0,176 questions
+3407582,/course/transformez-vos-habitudes-de-travail-avec-google-drive/,Google Drive Part 1: Accéder à ses données n'importe où,2020-08-10T09:29:20Z,46,True,$44.99,4.75,2,2 total hours
+4948330,/course/gcp-google-cloud-digital-leader-282/,【GCP認定資格】応用編  Google Cloud Digital Leader 完全模擬試験（全282問）,2022-10-27T05:53:27Z,14,True,$19.99,3.0,1,282 questions
+4943566,/course/new-google-cloud-certified-prof-cloud-arch-practical-exams/,New Google Cloud Certified Prof Cloud Arch Practical Exams,2022-10-24T17:17:31Z,10,True,$84.99,0,0,250 questions
+4962816,/course/google-cloud-professional-cloud-network-engineer-upd-nov22/,Google Cloud Professional Cloud Network Engineer - upd Nov22,2022-11-05T12:38:47Z,1,True,$24.99,0,0,64 questions
+1988292,/course/25-guerilla-taktiken-fuer-die-google-suche/,25 Guerilla-Taktiken für die Google Suche! Suchen und finden,2018-10-25T12:14:01Z,76,True,$79.99,4.5,9,3 total hours
+2676282,/course/google-urunleri/,Hayat Kolaylaştıran Google Ürünleri,2019-11-27T15:11:25Z,1260,True,$84.99,4.45,51,2 total hours
+5157212,/course/google-cloud-digital-leader6320/,Google Cloud Digital Leader模擬試験問題集（6回分320問）,2023-02-14T07:32:15Z,1001,True,$19.99,4.8333335,3,320 questions
+4214120,/course/google-certified-educator/,Google 認定教育者レベル 模擬問題集セット,2021-07-31T04:30:38Z,65,True,$19.99,2.7777777,9,108 questions
+3893972,/course/google-kubernetes-engine-de-cero-a-experto/,Google Kubernetes Engine - de cero a experto,2021-03-05T21:50:21Z,265,True,$84.99,3.4,26,3 total hours
+5081596,/course/analytics-engineering-en-google-cloud-con-dbt/,Analytics Engineering en Google Cloud con DBT,2023-01-12T20:49:33Z,167,True,$19.99,4.625,8,2.5 total hours
+2737844,/course/certificacoes-google-for-education-para-professores/,Certificações Google for Education para Professores,2020-01-04T09:18:04Z,1697,True,$39.99,4.1,137,2 total hours
+4577740,/course/criar-provas-online-com-google-forms/,Criar Provas Online com Google Forms,2022-03-02T21:35:31Z,200,True,$19.99,4.8333335,3,1 total hour
+5158634,/course/cloud-associate-cloud-engineer-practice-tests/,Google Cloud Associate Cloud Engineer Practice Tests 2023,2023-02-14T21:47:21Z,135,True,$19.99,0,0,197 questions
+1450044,/course/guia-do-mongodb/,"Guia do MongoDB(Google Cloud, NoSQL, Alta disponibilidade)",2017-11-28T02:01:34Z,13547,True,$19.99,4.4,637,2 total hours
+5155746,/course/cloud-computing-fundamentals-for-beginners-azure-aws-gcp/,Cloud computing fundamentals for beginners azure aws gcp,2023-02-13T14:40:56Z,0,False,Free,0,0,41 total mins
+4240378,/course/cicd-no-gcp-direto-ao-ponto/,CI/CD com o Cloud Build no GCP - Direto ao Ponto,2021-08-13T19:39:17Z,1434,False,Free,4.75,109,36 total mins
+3740336,/course/google-cloud-platform-gcp-para-iniciantes/,Google Cloud Platform para Iniciantes,2020-12-31T17:28:05Z,3856,False,Free,4.5454545,339,2 total hours
+2639636,/course/guia-de-certificacoes-cloud-computing-2020/,"Guia Certificações Amazon AWS, Azure e Google Cloud 2023",2019-11-04T14:53:12Z,24896,False,Free,4.7884617,2789,1.5 total hours
+1584316,/course/google-drive-formar-professores/,Google DRIVE - Formar Professores,2018-03-06T23:30:34Z,2183,False,Free,3.9,92,41 total mins
+3360300,/course/google-sala-de-aula-para-professores-pedroivorocha/,Google Sala de Aula,2020-07-24T01:04:50Z,519,False,Free,4.5,14,1 total hour
+2864124,/course/googleaccount/,はじめてのGoogle アカウント～Google のサービスを最大限に使うための第一歩～,2020-03-11T08:34:31Z,760,False,Free,4.5,47,40 total mins
